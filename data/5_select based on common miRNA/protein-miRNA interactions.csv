@@ -1,0 +1,1156 @@
+RAID00003358,hsa-miR-96-5p,miRNA,MIMAT0000095,Homo sapiens,LIN28B,protein,389421,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00011142,hsa-miR-27a-3p,miRNA,MIMAT0000084,Homo sapiens,FMR1,protein,2332,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00022238,hsa-miR-449b-5p,miRNA,MIMAT0003327,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00022838,hsa-miR-148a-3p,miRNA,MIMAT0000243,Homo sapiens,TGIF2,protein,60436,Homo sapiens,Western Blot//Reporter Assay,RAID,18768788,0.8808
+RAID00026340,hsa-miR-3122,miRNA,MIMAT0014984,Homo sapiens,EIF4A3,protein,9775,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00028403,hsa-miR-1301-3p,miRNA,MIMAT0005797,Homo sapiens,FMR1,protein,2332,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00033534,hsa-miR-3127-5p,miRNA,MIMAT0014990,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00038346,hsa-miR-3173-3p,miRNA,MIMAT0015048,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00040685,mmu-miR-135b-5p,miRNA,MIMAT0000612,Mus musculus,Fus,protein,233908,Mus musculus,CLIP-seq,starBase,None,0.5483
+RAID00043680,hsa-miR-204-5p,miRNA,MIMAT0000265,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00052460,hsa-miR-20a-5p,miRNA,MIMAT0000075,Homo sapiens,PTBP1,protein,5725,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00053125,hsa-miR-130b-3p,miRNA,MIMAT0000691,Homo sapiens,NRP1,protein,8829,Homo sapiens,Microarray,RAID,26573160,0.5483
+RAID00056027,mmu-miR-448-3p,miRNA,MIMAT0001533,Mus musculus,Fus,protein,233908,Mus musculus,CLIP-seq,starBase,None,0.5483
+RAID00064498,hsa-miR-501-5p,miRNA,MIMAT0002872,Homo sapiens,FUS,protein,2521,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00068491,hsa-miR-555,miRNA,MIMAT0003219,Homo sapiens,ELAVL1,protein,1994,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00083062,hsa-miR-374b-5p,miRNA,MIMAT0004955,Homo sapiens,LIN28B,protein,389421,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00084119,hsa-miR-23a-3p,miRNA,MIMAT0000078,Homo sapiens,MYC,protein,4609,Homo sapiens,Northern Blot//RT-PCR,RAID,19219026,0.8808
+RAID00085167,hsa-miR-192-5p,miRNA,MIMAT0000222,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00089200,hsa-let-7a-5p,miRNA,MIMAT0000062,Homo sapiens,LIN28A,protein,79727,Homo sapiens,IP (immunoprecipitation)//EMSA (electrophoretic mobility shift assay)//RT-PCR//Western Blot//CLIP,NPInter//RAID,18951094//20178735//22959275//26440890,0.9919
+RAID00091044,hsa-miR-224-5p,miRNA,MIMAT0000281,Homo sapiens,EIF4A3,protein,9775,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00092160,hsa-miR-4511,miRNA,MIMAT0019048,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00093968,hsa-miR-145-5p,miRNA,MIMAT0000437,Homo sapiens,LIN28A,protein,79727,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00096681,hsa-miR-26b-5p,miRNA,MIMAT0000083,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00104266,hsa-miR-663a,miRNA,MIMAT0003326,Homo sapiens,ALKBH5,protein,54890,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00106027,hsa-miR-708-5p,miRNA,MIMAT0004926,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00110899,hsa-miR-193b-3p,miRNA,MIMAT0002819,Homo sapiens,LIN28A,protein,79727,Homo sapiens,CLIP-seq//CLIP,NPInter//starBase,22959275,0.6606
+RAID00112917,hsa-miR-21-5p,miRNA,MIMAT0000076,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00118995,hsa-miR-96-5p,miRNA,MIMAT0000095,Homo sapiens,FMR1,protein,2332,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00123365,hsa-miR-660-5p,miRNA,MIMAT0003338,Homo sapiens,LIN28A,protein,79727,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00126666,hsa-miR-107,miRNA,MIMAT0000104,Homo sapiens,HNRNPA1,protein,3178,Homo sapiens,IP (immunoprecipitation)//RT-PCR,RAID,26494299,0.8808
+RAID00127446,hsa-miR-30d-5p,miRNA,MIMAT0000245,Homo sapiens,FXR1,protein,8087,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00127639,hsa-miR-23a-3p,miRNA,MIMAT0000078,Homo sapiens,LIN28A,protein,79727,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00135985,hsa-miR-200c-3p,miRNA,MIMAT0000617,Homo sapiens,LIN28B,protein,389421,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00149155,hsa-miR-193b-3p,miRNA,MIMAT0002819,Homo sapiens,RTCB,protein,51493,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00151994,hsa-miR-125a-5p,miRNA,MIMAT0000443,Homo sapiens,LIN28A,protein,79727,Homo sapiens,CLIP-seq//CLIP,NPInter//starBase,22959275,0.6606
+RAID00162382,hsa-miR-873-5p,miRNA,MIMAT0004953,Homo sapiens,FUS,protein,2521,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00162732,hsa-miR-191-5p,miRNA,MIMAT0000440,Homo sapiens,FMR1,protein,2332,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00170473,hsa-miR-762,miRNA,MIMAT0010313,Homo sapiens,EIF4A3,protein,9775,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00172667,hsa-miR-23a-3p,miRNA,MIMAT0000078,Homo sapiens,FUS,protein,2521,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00181836,hsa-miR-31-5p,miRNA,MIMAT0000089,Homo sapiens,EWSR1,protein,2130,Homo sapiens,CLIP,NPInter,24813895,0.5483
+RAID00186759,hsa-miR-27b-3p,miRNA,MIMAT0000419,Homo sapiens,FXR1,protein,8087,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00191180,hsa-miR-185-5p,miRNA,MIMAT0000455,Homo sapiens,LIN28B,protein,389421,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00196838,hsa-miR-302a-5p,miRNA,MIMAT0000683,Homo sapiens,LIN28A,protein,79727,Homo sapiens,CLIP,NPInter,22959275,0.5483
+RAID00199351,hsa-miR-3175,miRNA,MIMAT0015052,Homo sapiens,EIF4A3,protein,9775,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00202843,hsa-miR-3916,miRNA,MIMAT0018190,Homo sapiens,U2AF2,protein,11338,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00206927,hsa-miR-221-3p,miRNA,MIMAT0000278,Homo sapiens,DDIT4,protein,54541,Homo sapiens,Reporter Assay//RT-PCR//Western Blot//Microarray,RAID,20018759,0.9786
+RAID00207003,hsa-miR-374b-5p,miRNA,MIMAT0004955,Homo sapiens,FUS,protein,2521,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00208610,hsa-miR-1248,miRNA,MIMAT0005900,Homo sapiens,LIN28A,protein,79727,Homo sapiens,CLIP,NPInter,22959275,0.5483
+RAID00211175,hsa-miR-195-5p,miRNA,MIMAT0000461,Homo sapiens,FUS,protein,2521,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00213929,hsa-miR-1-3p,miRNA,MIMAT0000416,Homo sapiens,PIM1,protein,5292,Homo sapiens,RT-PCR//Reporter Assay//Western Blot,RAID,18818206,0.9526
+RAID00224624,hsa-miR-3176,miRNA,MIMAT0015053,Homo sapiens,FMR1,protein,2332,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00225802,hsa-let-7g-5p,miRNA,MIMAT0000414,Homo sapiens,FXR1,protein,8087,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00228452,hsa-miR-17-5p,miRNA,MIMAT0000070,Homo sapiens,UPF1,protein,5976,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00231511,hsa-miR-106b-5p,miRNA,MIMAT0000680,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00235079,hsa-miR-136-5p,miRNA,MIMAT0000448,Homo sapiens,LIN28B,protein,389421,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00235939,hsa-miR-33a-5p,miRNA,MIMAT0000091,Homo sapiens,LIN28A,protein,79727,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00245922,hsa-miR-21-5p,miRNA,MIMAT0000076,Homo sapiens,RTCB,protein,51493,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00249512,hsa-miR-221-3p,miRNA,MIMAT0000278,Homo sapiens,ZFP36,protein,7538,Homo sapiens,RIP (RNA Immunoprecipitation)//Western Blot//Reporter Assay//RT-PCR,RAID,20435889,0.982
+RAID00249700,hsa-miR-22-3p,miRNA,MIMAT0000077,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00251006,hsa-miR-186-5p,miRNA,MIMAT0000456,Homo sapiens,U2AF2,protein,11338,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00253624,hsa-miR-221-3p,miRNA,MIMAT0000278,Homo sapiens,EIF4A3,protein,9775,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00253795,hsa-miR-34c-5p,miRNA,MIMAT0000686,Homo sapiens,LIN28A,protein,79727,Homo sapiens,CLIP,NPInter,22959275,0.5483
+RAID00254424,hsa-miR-29b-3p,miRNA,MIMAT0000100,Homo sapiens,CDK6,protein,1021,Homo sapiens,Reporter Assay//RT-PCR//Western Blot,RAID,20086245,0.9526
+RAID00259385,hsa-miR-4453,miRNA,MIMAT0018975,Homo sapiens,EIF4A3,protein,9775,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00260683,hsa-miR-584-5p,miRNA,MIMAT0003249,Homo sapiens,HNRNPA1,protein,3178,Homo sapiens,IP (immunoprecipitation)//RT-PCR,RAID,26494299,0.8808
+RAID00263981,hsa-mir-135a-2,miRNA,MI0000453,Homo sapiens,FUS,protein,2521,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00264800,hsa-miR-30a-5p,miRNA,MIMAT0000087,Homo sapiens,PTBP1,protein,5725,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00265627,hsa-miR-298,miRNA,MIMAT0004901,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00268770,hsa-miR-582-5p,miRNA,MIMAT0003247,Homo sapiens,EIF4A3,protein,9775,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00269912,hsa-miR-3652,miRNA,MIMAT0018072,Homo sapiens,UPF1,protein,5976,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00270623,hsa-miR-615-5p,miRNA,MIMAT0004804,Homo sapiens,LIN28A,protein,79727,Homo sapiens,CLIP,NPInter,22959275,0.5483
+RAID00270895,hsa-miR-106b-5p,miRNA,MIMAT0000680,Homo sapiens,FMR1,protein,2332,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00273061,hsa-miR-210-3p,miRNA,MIMAT0000267,Homo sapiens,LIN28A,protein,79727,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00278777,hsa-miR-93-5p,miRNA,MIMAT0000093,Homo sapiens,FMR1,protein,2332,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00281689,hsa-miR-503-5p,miRNA,MIMAT0002874,Homo sapiens,LIN28A,protein,79727,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00284698,hsa-miR-375,miRNA,MIMAT0000728,Homo sapiens,FXR1,protein,8087,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00290273,hsa-miR-3609,miRNA,MIMAT0017986,Homo sapiens,QKI,protein,9444,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00292401,hsa-miR-320a,miRNA,MIMAT0000510,Homo sapiens,FMR1,protein,2332,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00292867,mmu-miR-125b-5p,miRNA,MIMAT0000136,Mus musculus,Tial1,protein,21843,Mus musculus,RIP (RNA Immunoprecipitation)//Western Blot//Reporter Assay//RT-PCR,RAID,20435889,0.982
+RAID00298424,hsa-miR-564,miRNA,MIMAT0003228,Homo sapiens,IGF2BP1,protein,10642,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00300409,hsa-miR-663a,miRNA,MIMAT0003326,Homo sapiens,RTCB,protein,51493,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00303666,hsa-miR-301a-3p,miRNA,MIMAT0000688,Homo sapiens,FMR1,protein,2332,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00304295,hsa-miR-27a-3p,miRNA,MIMAT0000084,Homo sapiens,TIAL1,protein,7073,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00304686,hsa-miR-22-3p,miRNA,MIMAT0000077,Homo sapiens,FMR1,protein,2332,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00308819,hsa-miR-93-5p,miRNA,MIMAT0000093,Homo sapiens,TIAL1,protein,7073,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00312709,hsa-miR-3609,miRNA,MIMAT0017986,Homo sapiens,EIF4A3,protein,9775,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00315438,hsa-miR-222-3p,miRNA,MIMAT0000279,Homo sapiens,EIF4A3,protein,9775,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00324797,hsa-miR-301b-3p,miRNA,MIMAT0004958,Homo sapiens,NCBP3,protein,55421,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00325079,hsa-miR-4517,miRNA,MIMAT0019054,Homo sapiens,U2AF2,protein,11338,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00327735,hsa-miR-199b-5p,miRNA,MIMAT0000263,Homo sapiens,LIN28A,protein,79727,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00329505,hsa-miR-3609,miRNA,MIMAT0017986,Homo sapiens,FUS,protein,2521,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00330666,hsa-miR-103a-2-5p,miRNA,MIMAT0009196,Homo sapiens,LIN28A,protein,79727,Homo sapiens,CLIP,NPInter,22959275,0.5483
+RAID00333745,hsa-miR-28-5p,miRNA,MIMAT0000085,Homo sapiens,LIN28A,protein,79727,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00336425,hsa-miR-1307-3p,miRNA,MIMAT0005951,Homo sapiens,FMR1,protein,2332,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00345981,hsa-miR-224-5p,miRNA,MIMAT0000281,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00347366,hsa-miR-125a-5p,miRNA,MIMAT0000443,Homo sapiens,RTCB,protein,51493,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00349810,hsa-miR-34c-5p,miRNA,MIMAT0000686,Homo sapiens,FUS,protein,2521,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00355827,hsa-miR-454-3p,miRNA,MIMAT0003885,Homo sapiens,FMR1,protein,2332,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00357016,hsa-miR-30e-5p,miRNA,MIMAT0000692,Homo sapiens,EIF4A3,protein,9775,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00361905,mmu-miR-93-5p,miRNA,MIMAT0000540,Mus musculus,Fus,protein,233908,Mus musculus,CLIP-seq,starBase,None,0.5483
+RAID00366569,hsa-miR-27a-3p,miRNA,MIMAT0000084,Homo sapiens,AGO2,protein,27161,Homo sapiens,Northern Blot//IP (immunoprecipitation),RAID,22844086,0.8808
+RAID00368505,hsa-miR-539-5p,miRNA,MIMAT0003163,Homo sapiens,FUS,protein,2521,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00390152,hsa-miR-29a-3p,miRNA,MIMAT0000086,Homo sapiens,FXR1,protein,8087,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00393174,hsa-miR-130a-3p,miRNA,MIMAT0000425,Homo sapiens,LIN28A,protein,79727,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00396615,hsa-miR-3618,miRNA,MIMAT0017998,Homo sapiens,PTBP1,protein,5725,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00399543,hsa-miR-93-3p,miRNA,MIMAT0004509,Homo sapiens,LIN28A,protein,79727,Homo sapiens,CLIP,NPInter,22959275,0.5483
+RAID00402044,hsa-miR-130b-3p,miRNA,MIMAT0000691,Homo sapiens,PTBP1,protein,5725,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00402067,hsa-miR-301a-3p,miRNA,MIMAT0000688,Homo sapiens,FUS,protein,2521,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00410147,hsa-miR-424-5p,miRNA,MIMAT0001341,Homo sapiens,FMR1,protein,2332,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00413999,hsa-miR-663a,miRNA,MIMAT0003326,Homo sapiens,FMR1,protein,2332,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00417087,hsa-miR-5699-3p,miRNA,MIMAT0022492,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00423262,hsa-miR-20a-5p,miRNA,MIMAT0000075,Homo sapiens,LIN28A,protein,79727,Homo sapiens,CLIP-seq//CLIP,NPInter//starBase,22959275,0.6606
+RAID00430281,rno-miR-107-3p,miRNA,MIMAT0000826,Rattus norvegicus,Cav1,protein,25404,Rattus norvegicus,Western Blot,RAID,26038570,0.7311
+RAID00435522,hsa-miR-555,miRNA,MIMAT0003219,Homo sapiens,EIF4A3,protein,9775,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00436675,hsa-miR-3609,miRNA,MIMAT0017986,Homo sapiens,LIN28A,protein,79727,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00440570,hsa-miR-1234-3p,miRNA,MIMAT0005589,Homo sapiens,UPF1,protein,5976,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00443543,hsa-miR-10a-5p,miRNA,MIMAT0000253,Homo sapiens,IGF2BP1,protein,10642,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00447381,hsa-miR-29c-3p,miRNA,MIMAT0000681,Homo sapiens,EIF4A3,protein,9775,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00454593,hsa-let-7i-5p,miRNA,MIMAT0000415,Homo sapiens,FMR1,protein,2332,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00460732,hsa-miR-186-5p,miRNA,MIMAT0000456,Homo sapiens,HNRNPC,protein,3183,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00463041,hsa-miR-455-5p,miRNA,MIMAT0003150,Homo sapiens,FUS,protein,2521,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00464064,hsa-miR-3618,miRNA,MIMAT0017998,Homo sapiens,EIF4A3,protein,9775,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00470736,hsa-miR-181a-5p,miRNA,MIMAT0000256,Homo sapiens,PTPN11,protein,5781,Homo sapiens,Western Blot//Reporter Assay//RT-PCR,RAID,17382377,0.9526
+RAID00472384,hsa-miR-186-5p,miRNA,MIMAT0000456,Homo sapiens,ELAVL1,protein,1994,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00473186,hsa-miR-221-3p,miRNA,MIMAT0000278,Homo sapiens,CAPRIN1,protein,4076,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00477350,hsa-miR-200b-3p,miRNA,MIMAT0000318,Homo sapiens,LIN28B,protein,389421,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00478577,hsa-miR-448,miRNA,MIMAT0001532,Homo sapiens,LIN28A,protein,79727,Homo sapiens,CLIP,NPInter,22959275,0.5483
+RAID00480131,hsa-miR-1-3p,miRNA,MIMAT0000416,Homo sapiens,LIN28A,protein,79727,Homo sapiens,CLIP,NPInter,22959275,0.5483
+RAID00483030,hsa-miR-130a-3p,miRNA,MIMAT0000425,Homo sapiens,NCBP3,protein,55421,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00485977,hsa-miR-374a-3p,miRNA,MIMAT0004688,Homo sapiens,LIN28A,protein,79727,Homo sapiens,CLIP,NPInter,22959275,0.5483
+RAID00486889,hsa-miR-197-3p,miRNA,MIMAT0000227,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00493437,hsa-miR-221-3p,miRNA,MIMAT0000278,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00493461,hsa-miR-361-5p,miRNA,MIMAT0000703,Homo sapiens,LIN28B,protein,389421,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00494176,hsa-miR-23a-3p,miRNA,MIMAT0000078,Homo sapiens,LIN28B,protein,389421,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00495324,hsa-miR-93-5p,miRNA,MIMAT0000093,Homo sapiens,LIN28B,protein,389421,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00495886,hsa-let-7c-5p,miRNA,MIMAT0000064,Homo sapiens,LIN28A,protein,79727,Homo sapiens,IP (immunoprecipitation)//EMSA (electrophoretic mobility shift assay)//Western Blot//RT-PCR//CLIP-seq//CLIP,NPInter//starBase//RAID,20178735//22959275//26440890,0.9939
+RAID00499436,hsa-miR-30a-5p,miRNA,MIMAT0000087,Homo sapiens,EIF4A3,protein,9775,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00503273,hsa-miR-93-5p,miRNA,MIMAT0000093,Homo sapiens,ZC3H7B,protein,23264,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00508575,hsa-miR-3157-5p,miRNA,MIMAT0015031,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00509690,hsa-miR-130b-3p,miRNA,MIMAT0000691,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00510290,hsa-miR-145-5p,miRNA,MIMAT0000437,Homo sapiens,FUS,protein,2521,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00510676,hsa-miR-330-3p,miRNA,MIMAT0000751,Homo sapiens,EIF4A3,protein,9775,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00521070,hsa-miR-186-5p,miRNA,MIMAT0000456,Homo sapiens,FUS,protein,2521,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00530536,hsa-miR-582-5p,miRNA,MIMAT0003247,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00531155,hsa-miR-34a-5p,miRNA,MIMAT0000255,Homo sapiens,FMR1,protein,2332,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00535731,hsa-miR-301a-3p,miRNA,MIMAT0000688,Homo sapiens,LIN28A,protein,79727,Homo sapiens,CLIP-seq//CLIP,NPInter//starBase,22959275,0.6606
+RAID00540737,hsa-miR-222-3p,miRNA,MIMAT0000279,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00551562,hsa-miR-324-3p,miRNA,MIMAT0000762,Homo sapiens,LIN28A,protein,79727,Homo sapiens,CLIP,NPInter,22959275,0.5483
+RAID00552406,hsa-miR-186-5p,miRNA,MIMAT0000456,Homo sapiens,LIN28B,protein,389421,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00554685,hsa-miR-5094,miRNA,MIMAT0021086,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00554730,hsa-let-7d-5p,miRNA,MIMAT0000065,Homo sapiens,FXR1,protein,8087,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00566161,hsa-let-7i-5p,miRNA,MIMAT0000415,Homo sapiens,LIN28A,protein,79727,Homo sapiens,RIP (RNA Immunoprecipitation)//IP (immunoprecipitation)//Northern Blot//EMSA (electrophoretic mobility shift assay)//Western Blot//RT-PCR//CLIP-seq//CLIP//ChIP (chromatin immunoprecipitation assay),NPInter//starBase//RAID,20178735//22959275//26440890//21297634,0.9993
+RAID00568475,hsa-miR-30e-5p,miRNA,MIMAT0000692,Homo sapiens,LIN28B,protein,389421,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00571357,hsa-miR-3609,miRNA,MIMAT0017986,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00573018,hsa-miR-125a-5p,miRNA,MIMAT0000443,Homo sapiens,NTRK3,protein,4916,Homo sapiens,Western Blot//Reporter Assay//RT-PCR,RAID,17483472,0.9526
+RAID00574860,hsa-miR-30d-5p,miRNA,MIMAT0000245,Homo sapiens,EIF4A3,protein,9775,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00591637,hsa-miR-3143,miRNA,MIMAT0015012,Homo sapiens,EIF4A3,protein,9775,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00599119,hsa-miR-34a-5p,miRNA,MIMAT0000255,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00604601,hsa-miR-383-5p,miRNA,MIMAT0000738,Homo sapiens,FUS,protein,2521,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00609901,hsa-miR-661,miRNA,MIMAT0003324,Homo sapiens,EIF4A3,protein,9775,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00617444,hsa-miR-21-5p,miRNA,MIMAT0000076,Homo sapiens,TIA1,protein,7072,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00617735,hsa-miR-30e-5p,miRNA,MIMAT0000692,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00627736,hsa-miR-296-5p,miRNA,MIMAT0000690,Homo sapiens,EIF4A3,protein,9775,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00629271,hsa-miR-19a-3p,miRNA,MIMAT0000073,Homo sapiens,SOCS3,protein,9021,Homo sapiens,RT-PCR//Reporter Assay,NPInter,23894411,0.8808
+RAID00632858,hsa-miR-29a-3p,miRNA,MIMAT0000086,Homo sapiens,EIF4A3,protein,9775,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00637773,hsa-miR-3607-3p,miRNA,MIMAT0017985,Homo sapiens,LIN28A,protein,79727,Homo sapiens,CLIP,NPInter,22959275,0.5483
+RAID00652659,hsa-miR-647,miRNA,MIMAT0003317,Homo sapiens,FUS,protein,2521,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00654533,hsa-miR-449c-5p,miRNA,MIMAT0010251,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00654534,hsa-miR-454-3p,miRNA,MIMAT0003885,Homo sapiens,FUS,protein,2521,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00654649,hsa-miR-107,miRNA,MIMAT0000104,Homo sapiens,FMR1,protein,2332,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00665765,hsa-miR-1301-3p,miRNA,MIMAT0005797,Homo sapiens,FUS,protein,2521,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00671536,hsa-miR-101-5p,miRNA,MIMAT0004513,Homo sapiens,LIN28A,protein,79727,Homo sapiens,CLIP,NPInter,22959275,0.5483
+RAID00673880,hsa-miR-33a-5p,miRNA,MIMAT0000091,Homo sapiens,TAF15,protein,8148,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00673888,mmu-let-7i-5p,miRNA,MIMAT0000122,Mus musculus,Rbm3,protein,19652,Mus musculus,CLIP-seq,starBase,None,0.5483
+RAID00676040,hsa-miR-374a-5p,miRNA,MIMAT0000727,Homo sapiens,LIN28A,protein,79727,Homo sapiens,CLIP-seq//CLIP,NPInter//starBase,22959275,0.6606
+RAID00678227,mmu-miR-21a-5p,miRNA,MIMAT0000530,Mus musculus,Tlr7,protein,170743,Mus musculus,Immunoassay//RT-PCR,RAID,25917529,0.8808
+RAID00678978,hsa-let-7g-5p,miRNA,MIMAT0000414,Homo sapiens,IGF2BP1,protein,10642,Homo sapiens,RIP (RNA Immunoprecipitation)//PAR-CLIP,RAID,23069990,0.8785
+RAID00682398,hsa-miR-186-5p,miRNA,MIMAT0000456,Homo sapiens,LIN28A,protein,79727,Homo sapiens,CLIP-seq//CLIP,NPInter//starBase,22959275,0.6606
+RAID00685276,hsa-miR-3664-5p,miRNA,MIMAT0018086,Homo sapiens,TNRC6A,protein,27327,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00685720,hsa-let-7b-5p,miRNA,MIMAT0000063,Homo sapiens,FXR1,protein,8087,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00690846,hsa-miR-93-5p,miRNA,MIMAT0000093,Homo sapiens,LIN28A,protein,79727,Homo sapiens,CLIP-seq//CLIP,NPInter//starBase,22959275,0.6606
+RAID00691088,hsa-miR-23b-3p,miRNA,MIMAT0000418,Homo sapiens,FXR1,protein,8087,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00691717,hsa-miR-4647,miRNA,MIMAT0019709,Homo sapiens,FUS,protein,2521,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00696923,hsa-miR-34a-5p,miRNA,MIMAT0000255,Homo sapiens,LIN28B,protein,389421,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00700184,mmu-let-7d-5p,miRNA,MIMAT0000383,Mus musculus,Srsf2,protein,20382,Mus musculus,CLIP-seq,starBase,None,0.5483
+RAID00700752,hsa-miR-569,miRNA,MIMAT0003234,Homo sapiens,EIF4A3,protein,9775,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00704164,hsa-miR-363-3p,miRNA,MIMAT0000707,Homo sapiens,LIN28A,protein,79727,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00706167,hsa-miR-449a,miRNA,MIMAT0001541,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00712332,hsa-let-7g-5p,miRNA,MIMAT0000414,Homo sapiens,PTBP1,protein,5725,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00713839,hsa-miR-1305,miRNA,MIMAT0005893,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00727824,hsa-miR-182-5p,miRNA,MIMAT0000259,Homo sapiens,PTBP1,protein,5725,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00729027,hsa-miR-29c-3p,miRNA,MIMAT0000681,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00734524,hsa-let-7b-5p,miRNA,MIMAT0000063,Homo sapiens,AGO2,protein,27161,Homo sapiens,RIP (RNA Immunoprecipitation)//RT-PCR//Northern Blot//Western Blot,RAID,26253535,0.982
+RAID00737869,hsa-miR-331-3p,miRNA,MIMAT0000760,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00745692,hsa-miR-30a-5p,miRNA,MIMAT0000087,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00749220,hsa-miR-182-5p,miRNA,MIMAT0000259,Homo sapiens,FMR1,protein,2332,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00750579,hsa-miR-578,miRNA,MIMAT0003243,Homo sapiens,FUS,protein,2521,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00751701,hsa-miR-146b-5p,miRNA,MIMAT0002809,Homo sapiens,LIN28A,protein,79727,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00753944,hsa-miR-374a-5p,miRNA,MIMAT0000727,Homo sapiens,FUS,protein,2521,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00754279,hsa-miR-185-5p,miRNA,MIMAT0000455,Homo sapiens,EIF4A3,protein,9775,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00757415,hsa-miR-24-3p,miRNA,MIMAT0000080,Homo sapiens,H2AFX,protein,3014,Homo sapiens,RT-PCR,RAID,25319395,0.7311
+RAID00767069,hsa-miR-203a-3p,miRNA,MIMAT0000264,Homo sapiens,EIF4A3,protein,9775,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00770317,hsa-miR-642a-5p,miRNA,MIMAT0003312,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00770762,hsa-miR-26b-5p,miRNA,MIMAT0000083,Homo sapiens,LIN28B,protein,389421,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00778032,hsa-miR-182-5p,miRNA,MIMAT0000259,Homo sapiens,ALKBH5,protein,54890,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00780176,hsa-miR-130a-3p,miRNA,MIMAT0000425,Homo sapiens,FMR1,protein,2332,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00781597,hsa-miR-330-3p,miRNA,MIMAT0000751,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00782512,hsa-let-7e-5p,miRNA,MIMAT0000066,Homo sapiens,FMR1,protein,2332,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00784659,hsa-miR-497-5p,miRNA,MIMAT0002820,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00791462,mmu-miR-210-3p,miRNA,MIMAT0000658,Mus musculus,Fus,protein,233908,Mus musculus,CLIP-seq,starBase,None,0.5483
+RAID00797988,hsa-miR-346,miRNA,MIMAT0000773,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00798187,hsa-miR-23b-3p,miRNA,MIMAT0000418,Homo sapiens,LIN28B,protein,389421,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00803530,hsa-miR-130a-3p,miRNA,MIMAT0000425,Homo sapiens,FUS,protein,2521,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00806787,hsa-miR-27a-3p,miRNA,MIMAT0000084,Homo sapiens,AGO1,protein,26523,Homo sapiens,Northern Blot//IP (immunoprecipitation),RAID,22844086,0.8808
+RAID00809525,mmu-let-7i-5p,miRNA,MIMAT0000122,Mus musculus,Fus,protein,233908,Mus musculus,CLIP-seq,starBase,None,0.5483
+RAID00812950,hsa-miR-4751,miRNA,MIMAT0019888,Homo sapiens,FUS,protein,2521,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00813151,hsa-miR-454-3p,miRNA,MIMAT0003885,Homo sapiens,PTBP1,protein,5725,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00813231,hsa-miR-30e-5p,miRNA,MIMAT0000692,Homo sapiens,FXR1,protein,8087,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00818866,hsa-miR-186-5p,miRNA,MIMAT0000456,Homo sapiens,PTBP1,protein,5725,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00819862,hsa-miR-125a-5p,miRNA,MIMAT0000443,Homo sapiens,LIN28B,protein,389421,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00824947,hsa-miR-20a-5p,miRNA,MIMAT0000075,Homo sapiens,FUS,protein,2521,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00827784,hsa-miR-503-5p,miRNA,MIMAT0002874,Homo sapiens,FXR1,protein,8087,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00829139,hsa-miR-125a-5p,miRNA,MIMAT0000443,Homo sapiens,FMR1,protein,2332,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00831924,hsa-miR-4779,miRNA,MIMAT0019938,Homo sapiens,EIF4A3,protein,9775,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00835265,hsa-mir-34b,miRNA,MI0000742,Homo sapiens,CDK6,protein,1021,Homo sapiens,Western Blot//Reporter Assay,RAID,18768788,0.8808
+RAID00836151,hsa-miR-449a,miRNA,MIMAT0001541,Homo sapiens,LIN28B,protein,389421,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00845405,hsa-miR-20a-5p,miRNA,MIMAT0000075,Homo sapiens,FMR1,protein,2332,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00845661,hsa-miR-30d-5p,miRNA,MIMAT0000245,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00849704,hsa-miR-206,miRNA,MIMAT0000462,Homo sapiens,FMR1,protein,2332,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00853463,hsa-miR-186-5p,miRNA,MIMAT0000456,Homo sapiens,EIF4A3,protein,9775,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00859410,hsa-miR-658,miRNA,MIMAT0003336,Homo sapiens,FMR1,protein,2332,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00861097,hsa-miR-29a-3p,miRNA,MIMAT0000086,Homo sapiens,CDK6,protein,1021,Homo sapiens,Reporter Assay//RT-PCR//Western Blot,RAID,20086245,0.9526
+RAID00862642,hsa-miR-223-3p,miRNA,MIMAT0000280,Homo sapiens,LIN28A,protein,79727,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00862788,hsa-miR-3618,miRNA,MIMAT0017998,Homo sapiens,FMR1,protein,2332,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00872930,hsa-miR-296-5p,miRNA,MIMAT0000690,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00879990,hsa-miR-23a-3p,miRNA,MIMAT0000078,Homo sapiens,PTBP1,protein,5725,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00884018,hsa-let-7a-5p,miRNA,MIMAT0000062,Homo sapiens,AGO2,protein,27161,Homo sapiens,Northern Blot//IP (immunoprecipitation),RAID,22844086,0.8808
+RAID00886646,hsa-miR-338-3p,miRNA,MIMAT0000763,Homo sapiens,EIF4A3,protein,9775,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00887381,hsa-miR-200b-3p,miRNA,MIMAT0000318,Homo sapiens,EIF4A3,protein,9775,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00892555,hsa-let-7e-5p,miRNA,MIMAT0000066,Homo sapiens,LIN28A,protein,79727,Homo sapiens,IP (immunoprecipitation)//EMSA (electrophoretic mobility shift assay)//RT-PCR//Western Blot//CLIP,NPInter//RAID,18951094//20178735//22959275//26440890,0.9919
+RAID00895973,hsa-miR-143-3p,miRNA,MIMAT0000435,Homo sapiens,LIN28A,protein,79727,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00907996,hsa-miR-761,miRNA,MIMAT0010364,Homo sapiens,ELAVL1,protein,1994,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00913434,hsa-miR-1181,miRNA,MIMAT0005826,Homo sapiens,ELAVL1,protein,1994,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00914358,hsa-miR-29a-3p,miRNA,MIMAT0000086,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00921699,hsa-miR-4517,miRNA,MIMAT0019054,Homo sapiens,EIF4A3,protein,9775,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00924505,hsa-miR-185-5p,miRNA,MIMAT0000455,Homo sapiens,PTBP1,protein,5725,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00924633,hsa-miR-1306-3p,miRNA,MIMAT0005950,Homo sapiens,IGF2BP1,protein,10642,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00926038,hsa-mir-34b,miRNA,MI0000742,Homo sapiens,HSPA5,protein,3309,Homo sapiens,RT-PCR,NPInter,23305226,0.7311
+RAID00928135,hsa-miR-3176,miRNA,MIMAT0015053,Homo sapiens,IGF2BP2,protein,10644,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00928940,hsa-miR-4467,miRNA,MIMAT0018994,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00931212,hsa-miR-217,miRNA,MIMAT0000274,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00937835,hsa-miR-4751,miRNA,MIMAT0019888,Homo sapiens,IGF2BP3,protein,10643,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00938647,hsa-miR-33a-5p,miRNA,MIMAT0000091,Homo sapiens,EIF4A3,protein,9775,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00941194,hsa-miR-939-5p,miRNA,MIMAT0004982,Homo sapiens,FMR1,protein,2332,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00944187,hsa-let-7c-5p,miRNA,MIMAT0000064,Homo sapiens,FMR1,protein,2332,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00948434,hsa-miR-940,miRNA,MIMAT0004983,Homo sapiens,FUS,protein,2521,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00957945,hsa-miR-25-3p,miRNA,MIMAT0000081,Homo sapiens,LIN28A,protein,79727,Homo sapiens,CLIP-seq//CLIP,NPInter//starBase,22959275,0.6606
+RAID00960221,hsa-miR-148b-3p,miRNA,MIMAT0000759,Homo sapiens,FXR1,protein,8087,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00964661,mmu-miR-298-5p,miRNA,MIMAT0000376,Mus musculus,Fus,protein,233908,Mus musculus,CLIP-seq,starBase,None,0.5483
+RAID00965033,hsa-miR-181c-5p,miRNA,MIMAT0000258,Homo sapiens,FUS,protein,2521,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00967480,hsa-miR-492,miRNA,MIMAT0002812,Homo sapiens,FMR1,protein,2332,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00972137,hsa-miR-21-5p,miRNA,MIMAT0000076,Homo sapiens,CAPRIN1,protein,4076,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00976850,hsa-miR-212-3p,miRNA,MIMAT0000269,Homo sapiens,PTBP1,protein,5725,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00988250,hsa-miR-185-5p,miRNA,MIMAT0000455,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00996627,hsa-miR-185-5p,miRNA,MIMAT0000455,Homo sapiens,FUS,protein,2521,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00997050,hsa-miR-222-3p,miRNA,MIMAT0000279,Homo sapiens,LIN28A,protein,79727,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID00997125,hsa-miR-10a-5p,miRNA,MIMAT0000253,Homo sapiens,FMR1,protein,2332,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01001372,mmu-let-7d-5p,miRNA,MIMAT0000383,Mus musculus,Srsf1,protein,110809,Mus musculus,CLIP-seq,starBase,None,0.5483
+RAID01003362,hsa-miR-30d-5p,miRNA,MIMAT0000245,Homo sapiens,LIN28A,protein,79727,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01006338,hsa-miR-15b-5p,miRNA,MIMAT0000417,Homo sapiens,EIF4A3,protein,9775,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01009793,hsa-miR-152-3p,miRNA,MIMAT0000438,Homo sapiens,FUS,protein,2521,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01011208,hsa-miR-663a,miRNA,MIMAT0003326,Homo sapiens,LIN28A,protein,79727,Homo sapiens,CLIP-seq//CLIP,NPInter//starBase,22959275,0.6606
+RAID01012983,hsa-miR-31-5p,miRNA,MIMAT0000089,Homo sapiens,PTBP1,protein,5725,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01013248,hsa-miR-181c-5p,miRNA,MIMAT0000258,Homo sapiens,PTBP1,protein,5725,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01013416,hsa-miR-7-5p,miRNA,MIMAT0000252,Homo sapiens,HOXD10,protein,3236,Homo sapiens,Western Blot//Reporter Assay,RAID,18922890,0.8808
+RAID01019633,hsa-miR-29a-3p,miRNA,MIMAT0000086,Homo sapiens,LIN28B,protein,389421,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01023619,hsa-miR-374a-5p,miRNA,MIMAT0000727,Homo sapiens,LIN28B,protein,389421,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01025078,hsa-miR-187-3p,miRNA,MIMAT0000262,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01025191,hsa-miR-3176,miRNA,MIMAT0015053,Homo sapiens,FUS,protein,2521,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01025893,hsa-miR-25-3p,miRNA,MIMAT0000081,Homo sapiens,FMR1,protein,2332,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01026860,hsa-miR-222-3p,miRNA,MIMAT0000279,Homo sapiens,PTBP1,protein,5725,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01031348,hsa-miR-18a-5p,miRNA,MIMAT0000072,Homo sapiens,LIN28A,protein,79727,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01033620,hsa-miR-192-5p,miRNA,MIMAT0000222,Homo sapiens,FMR1,protein,2332,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01037134,hsa-miR-146a-5p,miRNA,MIMAT0000449,Homo sapiens,LIN28B,protein,389421,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01038670,hsa-miR-200c-3p,miRNA,MIMAT0000617,Homo sapiens,FXR1,protein,8087,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01041025,hsa-miR-222-3p,miRNA,MIMAT0000279,Homo sapiens,FXR1,protein,8087,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01043111,hsa-miR-564,miRNA,MIMAT0003228,Homo sapiens,FUS,protein,2521,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01047262,hsa-miR-191-5p,miRNA,MIMAT0000440,Homo sapiens,LIN28A,protein,79727,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01047805,hsa-miR-27b-3p,miRNA,MIMAT0000419,Homo sapiens,LIN28A,protein,79727,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01049639,hsa-let-7e-5p,miRNA,MIMAT0000066,Homo sapiens,FUS,protein,2521,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01051957,hsa-miR-221-3p,miRNA,MIMAT0000278,Homo sapiens,BNIP3L,protein,665,Homo sapiens,Reporter Assay//RT-PCR//Western Blot//Microarray,RAID,20018759,0.9786
+RAID01052635,hsa-miR-939-5p,miRNA,MIMAT0004982,Homo sapiens,FUS,protein,2521,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01054228,hsa-let-7i-5p,miRNA,MIMAT0000415,Homo sapiens,FUS,protein,2521,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01059479,hsa-miR-18a-5p,miRNA,MIMAT0000072,Homo sapiens,FMR1,protein,2332,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01059678,hsa-miR-155-5p,miRNA,MIMAT0000646,Homo sapiens,MEIS1,protein,4211,Homo sapiens,Reporter Assay//RT-PCR//Western Blot,RAID,18950466,0.9526
+RAID01060170,hsa-miR-301b-3p,miRNA,MIMAT0004958,Homo sapiens,LIN28B,protein,389421,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01063949,hsa-let-7e-3p,miRNA,MIMAT0004485,Homo sapiens,LIN28A,protein,79727,Homo sapiens,CLIP,NPInter,22959275,0.5483
+RAID01076767,hsa-miR-26a-5p,miRNA,MIMAT0000082,Homo sapiens,LIN28A,protein,79727,Homo sapiens,CLIP,NPInter,22959275,0.5483
+RAID01082531,hsa-miR-29b-2-5p,miRNA,MIMAT0004515,Homo sapiens,LIN28A,protein,79727,Homo sapiens,CLIP,NPInter,22959275,0.5483
+RAID01085543,hsa-miR-652-5p,miRNA,MIMAT0022709,Homo sapiens,LIN28A,protein,79727,Homo sapiens,CLIP,NPInter,22959275,0.5483
+RAID01088134,hsa-miR-4637,miRNA,MIMAT0019694,Homo sapiens,EIF4A3,protein,9775,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01090293,hsa-let-7i-5p,miRNA,MIMAT0000415,Homo sapiens,LIN28B,protein,389421,Homo sapiens,Western Blot//EMSA (electrophoretic mobility shift assay)//RT-PCR//CLIP-seq,starBase//RAID,26440890,0.9786
+RAID01093021,hsa-miR-1236-3p,miRNA,MIMAT0005591,Homo sapiens,EIF4A3,protein,9775,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01093973,hsa-miR-361-5p,miRNA,MIMAT0000703,Homo sapiens,FMR1,protein,2332,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01099569,hsa-miR-186-5p,miRNA,MIMAT0000456,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01102919,mmu-miR-101b-3p,miRNA,MIMAT0000616,Mus musculus,Fus,protein,233908,Mus musculus,CLIP-seq,starBase,None,0.5483
+RAID01107808,hsa-miR-27a-3p,miRNA,MIMAT0000084,Homo sapiens,LIN28A,protein,79727,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01114406,hsa-miR-196b-5p,miRNA,MIMAT0001080,Homo sapiens,LIN28B,protein,389421,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01117052,hsa-miR-149-5p,miRNA,MIMAT0000450,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01124354,hsa-miR-577,miRNA,MIMAT0003242,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01127812,hsa-miR-342-3p,miRNA,MIMAT0000753,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01130187,hsa-miR-4741,miRNA,MIMAT0019871,Homo sapiens,FMR1,protein,2332,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01137236,hsa-miR-3618,miRNA,MIMAT0017998,Homo sapiens,ZC3H7B,protein,23264,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01140426,mmu-miR-222-3p,miRNA,MIMAT0000670,Mus musculus,Cdx2,protein,12591,Mus musculus,RT-PCR,NPInter,23933602,0.7311
+RAID01142788,hsa-miR-338-3p,miRNA,MIMAT0000763,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01144153,hsa-let-7a-5p,miRNA,MIMAT0000062,Homo sapiens,IGF2BP1,protein,10642,Homo sapiens,RIP (RNA Immunoprecipitation)//PAR-CLIP,RAID,23069990,0.8785
+RAID01148580,hsa-miR-1237-3p,miRNA,MIMAT0005592,Homo sapiens,EIF4A3,protein,9775,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01151072,hsa-miR-221-3p,miRNA,MIMAT0000278,Homo sapiens,PTBP1,protein,5725,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01152778,hsa-miR-339-5p,miRNA,MIMAT0000764,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01153208,hsa-miR-3176,miRNA,MIMAT0015053,Homo sapiens,TNRC6A,protein,27327,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01154265,hsa-miR-191-5p,miRNA,MIMAT0000440,Homo sapiens,FUS,protein,2521,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01154611,hsa-miR-27a-3p,miRNA,MIMAT0000084,Homo sapiens,SMAD5,protein,4090,Homo sapiens,RT-PCR,RAID,25265485,0.7311
+RAID01156931,hsa-miR-17-5p,miRNA,MIMAT0000070,Homo sapiens,MOV10,protein,4343,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01176678,hsa-miR-10a-5p,miRNA,MIMAT0000253,Homo sapiens,ZC3H7B,protein,23264,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01178151,hsa-miR-181b-3p,miRNA,MIMAT0022692,Homo sapiens,LIN28A,protein,79727,Homo sapiens,CLIP,NPInter,22959275,0.5483
+RAID01179869,hsa-miR-34c-5p,miRNA,MIMAT0000686,Homo sapiens,E2F3,protein,1871,Homo sapiens,Western Blot//Reporter Assay,RAID,18768788,0.8808
+RAID01184065,hsa-miR-33a-5p,miRNA,MIMAT0000091,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01188440,hsa-miR-34a-5p,miRNA,MIMAT0000255,Homo sapiens,FUS,protein,2521,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01191581,hsa-miR-29a-3p,miRNA,MIMAT0000086,Homo sapiens,PTBP1,protein,5725,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01192690,hsa-miR-34a-5p,miRNA,MIMAT0000255,Homo sapiens,LIN28A,protein,79727,Homo sapiens,CLIP,NPInter,22959275,0.5483
+RAID01193962,hsa-miR-135b-5p,miRNA,MIMAT0000758,Homo sapiens,FMR1,protein,2332,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01203613,hsa-miR-630,miRNA,MIMAT0003299,Homo sapiens,FMR1,protein,2332,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01205663,hsa-miR-4647,miRNA,MIMAT0019709,Homo sapiens,FMR1,protein,2332,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01215771,hsa-miR-141-3p,miRNA,MIMAT0000432,Homo sapiens,LIN28B,protein,389421,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01227046,hsa-miR-193a-3p,miRNA,MIMAT0000459,Homo sapiens,PTBP1,protein,5725,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01227328,mmu-miR-130b-3p,miRNA,MIMAT0000387,Mus musculus,Fus,protein,233908,Mus musculus,CLIP-seq,starBase,None,0.5483
+RAID01237335,hsa-miR-132-3p,miRNA,MIMAT0000426,Homo sapiens,PTBP1,protein,5725,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01237541,hsa-miR-33a-5p,miRNA,MIMAT0000091,Homo sapiens,FMR1,protein,2332,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01237562,hsa-miR-210-3p,miRNA,MIMAT0000267,Homo sapiens,PTBP1,protein,5725,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01243631,hsa-miR-29c-3p,miRNA,MIMAT0000681,Homo sapiens,CDK6,protein,1021,Homo sapiens,Reporter Assay//RT-PCR//Western Blot,RAID,20086245,0.9526
+RAID01250432,hsa-miR-1181,miRNA,MIMAT0005826,Homo sapiens,EIF4A3,protein,9775,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01250871,hsa-miR-221-3p,miRNA,MIMAT0000278,Homo sapiens,HNRNPD,protein,3184,Homo sapiens,RIP (RNA Immunoprecipitation)//Western Blot//Reporter Assay//RT-PCR,RAID,20435889,0.982
+RAID01255194,hsa-miR-761,miRNA,MIMAT0010364,Homo sapiens,EIF4A3,protein,9775,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01256900,hsa-miR-491-5p,miRNA,MIMAT0002807,Homo sapiens,FUS,protein,2521,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01258451,hsa-miR-152-3p,miRNA,MIMAT0000438,Homo sapiens,LIN28B,protein,389421,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01261823,hsa-miR-149-5p,miRNA,MIMAT0000450,Homo sapiens,FXR1,protein,8087,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01269754,hsa-miR-205-5p,miRNA,MIMAT0000266,Homo sapiens,FMR1,protein,2332,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01271273,hsa-miR-15b-5p,miRNA,MIMAT0000417,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01271687,hsa-miR-181c-5p,miRNA,MIMAT0000258,Homo sapiens,LIN28B,protein,389421,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01272303,hsa-miR-96-5p,miRNA,MIMAT0000095,Homo sapiens,PTBP1,protein,5725,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01273351,hsa-let-7a-5p,miRNA,MIMAT0000062,Homo sapiens,AGO1,protein,26523,Homo sapiens,Northern Blot//IP (immunoprecipitation),RAID,22844086,0.8808
+RAID01273981,hsa-miR-411-5p,miRNA,MIMAT0003329,Homo sapiens,FUS,protein,2521,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01275885,hsa-miR-660-5p,miRNA,MIMAT0003338,Homo sapiens,FMR1,protein,2332,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01282105,hsa-miR-299-3p,miRNA,MIMAT0000687,Homo sapiens,LIN28B,protein,389421,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01290746,mmu-miR-221-3p,miRNA,MIMAT0000669,Mus musculus,Cdx2,protein,12591,Mus musculus,RT-PCR,NPInter,23933602,0.7311
+RAID01293438,hsa-miR-302b-3p,miRNA,MIMAT0000715,Homo sapiens,LIN28A,protein,79727,Homo sapiens,CLIP,NPInter,22959275,0.5483
+RAID01299956,hsa-miR-1178-3p,miRNA,MIMAT0005823,Homo sapiens,U2AF2,protein,11338,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01304794,hsa-miR-874-3p,miRNA,MIMAT0004911,Homo sapiens,FUS,protein,2521,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01305764,hsa-miR-3619-5p,miRNA,MIMAT0017999,Homo sapiens,EIF4A3,protein,9775,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01308554,hsa-miR-30d-5p,miRNA,MIMAT0000245,Homo sapiens,PTBP1,protein,5725,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01310616,hsa-miR-424-5p,miRNA,MIMAT0001341,Homo sapiens,FUS,protein,2521,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01318944,hsa-miR-181d-5p,miRNA,MIMAT0002821,Homo sapiens,LIN28B,protein,389421,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01323882,mmu-miR-17-5p,miRNA,MIMAT0000649,Mus musculus,Adcy5,protein,224129,Mus musculus,Reporter Assay,RAID,25077541,0.7311
+RAID01324533,hsa-miR-210-3p,miRNA,MIMAT0000267,Homo sapiens,FXR1,protein,8087,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01325250,hsa-miR-18b-5p,miRNA,MIMAT0001412,Homo sapiens,PTBP1,protein,5725,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01326243,hsa-miR-96-5p,miRNA,MIMAT0000095,Homo sapiens,LIN28A,protein,79727,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01328015,hsa-miR-106a-5p,miRNA,MIMAT0000103,Homo sapiens,MYC,protein,4609,Homo sapiens,Reporter Assay//Northern Blot//Western Blot,RAID,15944709,0.9526
+RAID01335751,hsa-miR-4751,miRNA,MIMAT0019888,Homo sapiens,IGF2BP2,protein,10644,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01339104,hsa-miR-30a-3p,miRNA,MIMAT0000088,Homo sapiens,LIN28A,protein,79727,Homo sapiens,CLIP,NPInter,22959275,0.5483
+RAID01340383,hsa-miR-324-5p,miRNA,MIMAT0000761,Homo sapiens,LIN28A,protein,79727,Homo sapiens,CLIP,NPInter,22959275,0.5483
+RAID01342128,hsa-miR-942-5p,miRNA,MIMAT0004985,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01349810,hsa-miR-3176,miRNA,MIMAT0015053,Homo sapiens,IGF2BP1,protein,10642,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01354728,hsa-miR-33a-5p,miRNA,MIMAT0000091,Homo sapiens,FUS,protein,2521,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01355705,hsa-miR-10a-5p,miRNA,MIMAT0000253,Homo sapiens,LIN28A,protein,79727,Homo sapiens,CLIP-seq//CLIP,NPInter//starBase,22959275,0.6606
+RAID01356188,hsa-miR-190b,miRNA,MIMAT0004929,Homo sapiens,FUS,protein,2521,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01374866,hsa-miR-424-5p,miRNA,MIMAT0001341,Homo sapiens,EIF4A3,protein,9775,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01379950,hsa-miR-200a-3p,miRNA,MIMAT0000682,Homo sapiens,LIN28B,protein,389421,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01382238,mmu-miR-320-3p,miRNA,MIMAT0000666,Mus musculus,Fus,protein,233908,Mus musculus,CLIP-seq,starBase,None,0.5483
+RAID01385646,hsa-miR-23c,miRNA,MIMAT0018000,Homo sapiens,FUS,protein,2521,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01395413,hsa-miR-23a-3p,miRNA,MIMAT0000078,Homo sapiens,NCBP3,protein,55421,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01399230,hsa-miR-144-3p,miRNA,MIMAT0000436,Homo sapiens,FUS,protein,2521,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01402631,hsa-miR-25-3p,miRNA,MIMAT0000081,Homo sapiens,LIN28B,protein,389421,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01403469,hsa-miR-106a-5p,miRNA,MIMAT0000103,Homo sapiens,FUS,protein,2521,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01406157,hsa-miR-17-5p,miRNA,MIMAT0000070,Homo sapiens,LIN28B,protein,389421,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01409099,hsa-miR-922,miRNA,MIMAT0004972,Homo sapiens,UPF1,protein,5976,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01413512,hsa-miR-18a-5p,miRNA,MIMAT0000072,Homo sapiens,HNRNPA1,protein,3178,Homo sapiens,RIP (RNA Immunoprecipitation)//Cross-Linking assay//RT-PCR,RAID,17558416,0.9526
+RAID01415132,hsa-miR-20a-5p,miRNA,MIMAT0000075,Homo sapiens,LIN28B,protein,389421,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01424141,hsa-miR-122-5p,miRNA,MIMAT0000421,Homo sapiens,FMR1,protein,2332,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01428342,hsa-miR-221-3p,miRNA,MIMAT0000278,Homo sapiens,FMR1,protein,2332,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01428946,hsa-miR-4307,miRNA,MIMAT0016860,Homo sapiens,HNRNPC,protein,3183,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01438883,hsa-let-7b-5p,miRNA,MIMAT0000063,Homo sapiens,IGF2BP1,protein,10642,Homo sapiens,RIP (RNA Immunoprecipitation)//PAR-CLIP,RAID,23069990,0.8785
+RAID01438935,hsa-miR-19b-1-5p,miRNA,MIMAT0004491,Homo sapiens,LIN28A,protein,79727,Homo sapiens,CLIP,NPInter,22959275,0.5483
+RAID01444825,hsa-miR-433-3p,miRNA,MIMAT0001627,Homo sapiens,FUS,protein,2521,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01447819,hsa-miR-29c-3p,miRNA,MIMAT0000681,Homo sapiens,PTBP1,protein,5725,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01451885,hsa-miR-125a-5p,miRNA,MIMAT0000443,Homo sapiens,FUS,protein,2521,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01452799,hsa-miR-196b-5p,miRNA,MIMAT0001080,Homo sapiens,FMR1,protein,2332,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01454598,hsa-miR-26a-5p,miRNA,MIMAT0000082,Homo sapiens,HNRNPA1,protein,3178,Homo sapiens,IP (immunoprecipitation)//RT-PCR,RAID,26494299,0.8808
+RAID01458082,hsa-miR-362-5p,miRNA,MIMAT0000705,Homo sapiens,EIF4A3,protein,9775,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01467658,hsa-miR-21-5p,miRNA,MIMAT0000076,Homo sapiens,FMR1,protein,2332,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01469820,hsa-miR-21-5p,miRNA,MIMAT0000076,Homo sapiens,LIN28B,protein,389421,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01471448,hsa-miR-302c-3p,miRNA,MIMAT0000717,Homo sapiens,LIN28A,protein,79727,Homo sapiens,CLIP,NPInter,22959275,0.5483
+RAID01477990,hsa-miR-3145-3p,miRNA,MIMAT0015016,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01486644,hsa-miR-4453,miRNA,MIMAT0018975,Homo sapiens,UPF1,protein,5976,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01487787,hsa-miR-632,miRNA,MIMAT0003302,Homo sapiens,ZC3H7B,protein,23264,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01490058,hsa-miR-193b-3p,miRNA,MIMAT0002819,Homo sapiens,EIF4A3,protein,9775,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01498885,hsa-let-7d-5p,miRNA,MIMAT0000065,Homo sapiens,FUS,protein,2521,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01516399,mmu-let-7b-5p,miRNA,MIMAT0000522,Mus musculus,Cirbp,protein,12696,Mus musculus,CLIP-seq,starBase,None,0.5483
+RAID01517710,hsa-miR-30a-5p,miRNA,MIMAT0000087,Homo sapiens,FUS,protein,2521,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01533027,hsa-miR-19a-3p,miRNA,MIMAT0000073,Homo sapiens,STAT3,protein,6774,Homo sapiens,Nucleic acid transfection//Reporter Assay//IP (immunoprecipitation)//RT-PCR,NPInter,23894411,0.982
+RAID01533410,hsa-miR-320a,miRNA,MIMAT0000510,Homo sapiens,ALKBH5,protein,54890,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01536541,hsa-miR-335-5p,miRNA,MIMAT0000765,Homo sapiens,MMP2,protein,4313,Homo sapiens,RT-PCR//Reporter Assay,NPInter,23708561,0.8808
+RAID01546552,hsa-miR-661,miRNA,MIMAT0003324,Homo sapiens,FUS,protein,2521,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01547213,hsa-miR-1236-3p,miRNA,MIMAT0005591,Homo sapiens,FUS,protein,2521,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01551826,hsa-miR-331-3p,miRNA,MIMAT0000760,Homo sapiens,LIN28B,protein,389421,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01562886,hsa-miR-27a-3p,miRNA,MIMAT0000084,Homo sapiens,LIN28B,protein,389421,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01567664,hsa-miR-96-5p,miRNA,MIMAT0000095,Homo sapiens,NCBP3,protein,55421,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01574694,hsa-miR-183-5p,miRNA,MIMAT0000261,Homo sapiens,EIF4A3,protein,9775,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01577572,hsa-miR-320a,miRNA,MIMAT0000510,Homo sapiens,FUS,protein,2521,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01579859,hsa-miR-135b-5p,miRNA,MIMAT0000758,Homo sapiens,GSK3B,protein,2932,Homo sapiens,Western Blot//RT-PCR,RAID,26437223,0.8808
+RAID01583443,hsa-miR-922,miRNA,MIMAT0004972,Homo sapiens,EIF4A3,protein,9775,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01589118,hsa-miR-203a-3p,miRNA,MIMAT0000264,Homo sapiens,LMP1,protein,3783750,Human herpesvirus 4,ISH (In Situ Hybridization)//RT-PCR//IHC (Immunohistochemistry),RAID,22205737,0.9526
+RAID01591221,hsa-miR-135b-5p,miRNA,MIMAT0000758,Homo sapiens,SMAD5,protein,4090,Homo sapiens,Western Blot//RT-PCR,RAID,26437223,0.8808
+RAID01597690,hsa-miR-183-5p,miRNA,MIMAT0000261,Homo sapiens,FMR1,protein,2332,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01600183,hsa-miR-296-5p,miRNA,MIMAT0000690,Homo sapiens,FMR1,protein,2332,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01602305,hsa-miR-20a-5p,miRNA,MIMAT0000075,Homo sapiens,EIF4A3,protein,9775,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01602416,hsa-miR-181a-5p,miRNA,MIMAT0000256,Homo sapiens,HSPA5,protein,3309,Homo sapiens,Reporter Assay//RT-PCR//Western Blot,RAID,23085757,0.9526
+RAID01602720,hsa-miR-708-5p,miRNA,MIMAT0004926,Homo sapiens,FMR1,protein,2332,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01607760,hsa-miR-4519,miRNA,MIMAT0019056,Homo sapiens,UPF1,protein,5976,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01612554,hsa-miR-1587,miRNA,MIMAT0019077,Homo sapiens,FUS,protein,2521,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01613794,hsa-miR-641,miRNA,MIMAT0003311,Homo sapiens,EIF4A3,protein,9775,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01614982,hsa-miR-190a-5p,miRNA,MIMAT0000458,Homo sapiens,FUS,protein,2521,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01624260,hsa-miR-448,miRNA,MIMAT0001532,Homo sapiens,FUS,protein,2521,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01631449,hsa-miR-424-5p,miRNA,MIMAT0001341,Homo sapiens,LIN28B,protein,389421,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01634660,hsa-miR-505-3p,miRNA,MIMAT0002876,Homo sapiens,FXR1,protein,8087,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01636411,hsa-miR-4705,miRNA,MIMAT0019805,Homo sapiens,FUS,protein,2521,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01636425,hsa-miR-429,miRNA,MIMAT0001536,Homo sapiens,LIN28A,protein,79727,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01637346,hsa-miR-412-3p,miRNA,MIMAT0002170,Homo sapiens,LIN28A,protein,79727,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01642854,hsa-let-7g-5p,miRNA,MIMAT0000414,Homo sapiens,FUS,protein,2521,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01649161,hsa-miR-424-5p,miRNA,MIMAT0001341,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01652097,hsa-miR-29b-3p,miRNA,MIMAT0000100,Homo sapiens,HNRNPA1,protein,3178,Homo sapiens,IP (immunoprecipitation)//RT-PCR,RAID,26494299,0.8808
+RAID01654055,hsa-miR-197-3p,miRNA,MIMAT0000227,Homo sapiens,FUS,protein,2521,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01661346,hsa-miR-26a-5p,miRNA,MIMAT0000082,Homo sapiens,SMAD1,protein,4086,Homo sapiens,Western Blot//Reporter Assay,RAID,18197755,0.8808
+RAID01663834,hsa-miR-30d-5p,miRNA,MIMAT0000245,Homo sapiens,HSPA5,protein,3309,Homo sapiens,Reporter Assay//RT-PCR//Western Blot,RAID,23085757,0.9526
+RAID01674041,hsa-miR-182-5p,miRNA,MIMAT0000259,Homo sapiens,LIN28A,protein,79727,Homo sapiens,CLIP-seq//CLIP,NPInter//starBase,22959275,0.6606
+RAID01676970,hsa-miR-4498,miRNA,MIMAT0019033,Homo sapiens,U2AF2,protein,11338,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01677242,hsa-miR-199a-5p,miRNA,MIMAT0000231,Homo sapiens,HSPA5,protein,3309,Homo sapiens,Reporter Assay//RT-PCR//Western Blot,RAID,23085757,0.9526
+RAID01679558,hsa-miR-21-5p,miRNA,MIMAT0000076,Homo sapiens,TIAL1,protein,7073,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01680348,hsa-miR-204-5p,miRNA,MIMAT0000265,Homo sapiens,FUS,protein,2521,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01681899,hsa-let-7b-5p,miRNA,MIMAT0000063,Homo sapiens,EIF4A3,protein,9775,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01682381,hsa-miR-3941,miRNA,MIMAT0018357,Homo sapiens,EIF4A3,protein,9775,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01682545,hsa-miR-454-3p,miRNA,MIMAT0003885,Homo sapiens,EIF4A3,protein,9775,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01682940,hsa-miR-598-3p,miRNA,MIMAT0003266,Homo sapiens,FMR1,protein,2332,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01686909,hsa-miR-3916,miRNA,MIMAT0018190,Homo sapiens,SRSF1,protein,6426,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01691446,hsa-miR-10a-5p,miRNA,MIMAT0000253,Homo sapiens,LIN28B,protein,389421,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01691637,hsa-miR-9-5p,miRNA,MIMAT0000441,Homo sapiens,MMP2,protein,4313,Homo sapiens,Western Blot//CLIP-seq,NPInter,24038734,0.8785
+RAID01691720,mmu-miR-27a-3p,miRNA,MIMAT0000537,Mus musculus,Fus,protein,233908,Mus musculus,CLIP-seq,starBase,None,0.5483
+RAID01700424,hsa-miR-193b-3p,miRNA,MIMAT0002819,Homo sapiens,FUS,protein,2521,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01709807,hsa-miR-362-5p,miRNA,MIMAT0000705,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01716288,hsa-miR-374a-5p,miRNA,MIMAT0000727,Homo sapiens,EIF4A3,protein,9775,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01717414,hsa-miR-17-5p,miRNA,MIMAT0000070,Homo sapiens,ZC3H7B,protein,23264,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01724052,hsa-miR-326,miRNA,MIMAT0000756,Homo sapiens,EIF4A3,protein,9775,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01725867,mmu-miR-137-3p,miRNA,MIMAT0000149,Mus musculus,Ptbp2,protein,56195,Mus musculus,CLIP-seq,starBase,None,0.5483
+RAID01729007,hsa-miR-25-3p,miRNA,MIMAT0000081,Homo sapiens,FUS,protein,2521,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01729879,hsa-miR-21-5p,miRNA,MIMAT0000076,Homo sapiens,AGO2,protein,27161,Homo sapiens,Northern Blot//IP (immunoprecipitation),RAID,22844086,0.8808
+RAID01731940,hsa-miR-193b-3p,miRNA,MIMAT0002819,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01743149,hsa-let-7c-5p,miRNA,MIMAT0000064,Homo sapiens,EIF4A3,protein,9775,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01743958,hsa-miR-5696,miRNA,MIMAT0022489,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01749910,hsa-miR-19a-3p,miRNA,MIMAT0000073,Homo sapiens,MOV10,protein,4343,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01750389,hsa-miR-130a-3p,miRNA,MIMAT0000425,Homo sapiens,PTBP1,protein,5725,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01755524,hsa-miR-4751,miRNA,MIMAT0019888,Homo sapiens,IGF2BP1,protein,10642,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01756122,mmu-miR-381-3p,miRNA,MIMAT0000746,Mus musculus,Fus,protein,233908,Mus musculus,CLIP-seq,starBase,None,0.5483
+RAID01758704,hsa-miR-663a,miRNA,MIMAT0003326,Homo sapiens,EIF4A3,protein,9775,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01764451,hsa-miR-196b-5p,miRNA,MIMAT0001080,Homo sapiens,PTBP1,protein,5725,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01770626,hsa-miR-4743-5p,miRNA,MIMAT0019874,Homo sapiens,U2AF2,protein,11338,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01771753,hsa-miR-26b-5p,miRNA,MIMAT0000083,Homo sapiens,FMR1,protein,2332,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01772917,hsa-miR-1301-3p,miRNA,MIMAT0005797,Homo sapiens,FXR1,protein,8087,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01784428,hsa-let-7c-5p,miRNA,MIMAT0000064,Homo sapiens,IGF2BP1,protein,10642,Homo sapiens,RIP (RNA Immunoprecipitation)//PAR-CLIP,RAID,23069990,0.8785
+RAID01785421,hsa-miR-4281,miRNA,MIMAT0016907,Homo sapiens,EIF4A3,protein,9775,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01791273,hsa-miR-23a-3p,miRNA,MIMAT0000078,Homo sapiens,FMR1,protein,2332,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01792311,hsa-miR-320a,miRNA,MIMAT0000510,Homo sapiens,EIF4A3,protein,9775,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01792847,hsa-miR-1306-5p,miRNA,MIMAT0022726,Homo sapiens,LIN28A,protein,79727,Homo sapiens,CLIP,NPInter,22959275,0.5483
+RAID01802751,hsa-miR-632,miRNA,MIMAT0003302,Homo sapiens,FMR1,protein,2332,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01810708,mmu-let-7d-5p,miRNA,MIMAT0000383,Mus musculus,Lin28b,protein,380669,Mus musculus,RT-PCR,RAID,23811688,0.7311
+RAID01813483,hsa-miR-183-5p,miRNA,MIMAT0000261,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01816050,hsa-let-7d-5p,miRNA,MIMAT0000065,Homo sapiens,EIF4A3,protein,9775,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01822395,hsa-miR-222-3p,miRNA,MIMAT0000279,Homo sapiens,RTCB,protein,51493,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01833508,hsa-miR-337-3p,miRNA,MIMAT0000754,Homo sapiens,FUS,protein,2521,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01839282,hsa-miR-30b-5p,miRNA,MIMAT0000420,Homo sapiens,FMR1,protein,2332,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01840666,hsa-miR-374b-5p,miRNA,MIMAT0004955,Homo sapiens,EIF4A3,protein,9775,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01850183,hsa-miR-20a-5p,miRNA,MIMAT0000075,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01857636,hsa-miR-143-3p,miRNA,MIMAT0000435,Homo sapiens,FUS,protein,2521,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01861662,hsa-miR-137,miRNA,MIMAT0000429,Homo sapiens,FUS,protein,2521,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01863976,hsa-miR-331-3p,miRNA,MIMAT0000760,Homo sapiens,FUS,protein,2521,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01864929,hsa-miR-15b-5p,miRNA,MIMAT0000417,Homo sapiens,FMR1,protein,2332,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01867147,hsa-miR-200b-3p,miRNA,MIMAT0000318,Homo sapiens,LIN28A,protein,79727,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01872198,hsa-miR-641,miRNA,MIMAT0003311,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01873995,hsa-miR-3197,miRNA,MIMAT0015082,Homo sapiens,EIF4A3,protein,9775,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01874009,hsa-miR-30a-5p,miRNA,MIMAT0000087,Homo sapiens,CBX3,protein,11335,Homo sapiens,Western Blot//Reporter Assay//RT-PCR,RAID,26333808,0.9526
+RAID01875135,hsa-miR-27b-3p,miRNA,MIMAT0000419,Homo sapiens,FUS,protein,2521,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01877750,mmu-miR-183-5p,miRNA,MIMAT0000212,Mus musculus,Fus,protein,233908,Mus musculus,CLIP-seq,starBase,None,0.5483
+RAID01884918,hsa-miR-621,miRNA,MIMAT0003290,Homo sapiens,FMR1,protein,2332,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01885754,hsa-miR-30b-5p,miRNA,MIMAT0000420,Homo sapiens,FUS,protein,2521,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01888086,hsa-miR-186-3p,miRNA,MIMAT0004612,Homo sapiens,LIN28A,protein,79727,Homo sapiens,CLIP,NPInter,22959275,0.5483
+RAID01889871,hsa-miR-489-3p,miRNA,MIMAT0002805,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01890192,hsa-miR-205-5p,miRNA,MIMAT0000266,Homo sapiens,NCBP3,protein,55421,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01890571,hsa-miR-598-3p,miRNA,MIMAT0003266,Homo sapiens,LIN28A,protein,79727,Homo sapiens,CLIP-seq//CLIP,NPInter//starBase,22959275,0.6606
+RAID01891131,hsa-miR-146b-5p,miRNA,MIMAT0002809,Homo sapiens,EIF4A3,protein,9775,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01895555,hsa-miR-17-5p,miRNA,MIMAT0000070,Homo sapiens,LIN28A,protein,79727,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01896278,hsa-miR-424-5p,miRNA,MIMAT0001341,Homo sapiens,LIN28A,protein,79727,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01896377,hsa-let-7e-5p,miRNA,MIMAT0000066,Homo sapiens,EIF4A3,protein,9775,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01897955,hsa-miR-191-5p,miRNA,MIMAT0000440,Homo sapiens,FXR1,protein,8087,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01901960,hsa-miR-143-3p,miRNA,MIMAT0000435,Homo sapiens,EIF4A3,protein,9775,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01909001,hsa-miR-454-3p,miRNA,MIMAT0003885,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01909102,hsa-let-7g-5p,miRNA,MIMAT0000414,Homo sapiens,EIF4A3,protein,9775,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01909488,hsa-miR-1306-3p,miRNA,MIMAT0005950,Homo sapiens,ELAVL1,protein,1994,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01914106,hsa-miR-193a-3p,miRNA,MIMAT0000459,Homo sapiens,LIN28B,protein,389421,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01915540,hsa-miR-132-3p,miRNA,MIMAT0000426,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01916698,hsa-let-7g-5p,miRNA,MIMAT0000414,Homo sapiens,LIN28B,protein,389421,Homo sapiens,Reporter Assay//IP (immunoprecipitation)//EMSA (electrophoretic mobility shift assay)//Western Blot//RT-PCR//CLIP-seq,NPInter//starBase//RAID,23063642//26440890//20525879//18951094,0.997
+RAID01926884,hsa-miR-181a-5p,miRNA,MIMAT0000256,Homo sapiens,DUSP5,protein,1847,Homo sapiens,Western Blot//Reporter Assay//RT-PCR,RAID,17382377,0.9526
+RAID01930643,hsa-miR-15b-5p,miRNA,MIMAT0000417,Homo sapiens,LIN28A,protein,79727,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01933358,hsa-let-7b-5p,miRNA,MIMAT0000063,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01933716,hsa-miR-148b-3p,miRNA,MIMAT0000759,Homo sapiens,FUS,protein,2521,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01935323,hsa-miR-125b-5p,miRNA,MIMAT0000423,Homo sapiens,NTRK3,protein,4916,Homo sapiens,Western Blot//Reporter Assay//RT-PCR,RAID,17483472,0.9526
+RAID01939185,hsa-miR-210-3p,miRNA,MIMAT0000267,Homo sapiens,FUS,protein,2521,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01939359,hsa-miR-30a-5p,miRNA,MIMAT0000087,Homo sapiens,LIN28B,protein,389421,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01939443,hsa-miR-762,miRNA,MIMAT0010313,Homo sapiens,FUS,protein,2521,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01941285,hsa-miR-146a-5p,miRNA,MIMAT0000449,Homo sapiens,ZBTB16,protein,7704,Homo sapiens,RT-PCR//Reporter Assay//Western Blot,RAID,18568019,0.9526
+RAID01944044,hsa-miR-381-3p,miRNA,MIMAT0000736,Homo sapiens,FUS,protein,2521,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01956526,hsa-miR-412-3p,miRNA,MIMAT0002170,Homo sapiens,LIN28B,protein,389421,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01959655,hsa-miR-4254,miRNA,MIMAT0016884,Homo sapiens,TNRC6A,protein,27327,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01961808,hsa-miR-29a-3p,miRNA,MIMAT0000086,Homo sapiens,RTCB,protein,51493,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01963805,hsa-miR-431-5p,miRNA,MIMAT0001625,Homo sapiens,FUS,protein,2521,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01969985,hsa-miR-221-3p,miRNA,MIMAT0000278,Homo sapiens,RTCB,protein,51493,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01973219,hsa-miR-3619-5p,miRNA,MIMAT0017999,Homo sapiens,TNRC6A,protein,27327,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01979778,hsa-miR-210-3p,miRNA,MIMAT0000267,Homo sapiens,EIF4A3,protein,9775,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01986767,hsa-miR-1825,miRNA,MIMAT0006765,Homo sapiens,FMR1,protein,2332,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01990442,hsa-miR-106b-5p,miRNA,MIMAT0000680,Homo sapiens,FXR1,protein,8087,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01995250,hsa-let-7c-5p,miRNA,MIMAT0000064,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01998088,hsa-miR-93-5p,miRNA,MIMAT0000093,Homo sapiens,FXR1,protein,8087,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01998930,hsa-miR-326,miRNA,MIMAT0000756,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID01999629,hsa-miR-632,miRNA,MIMAT0003302,Homo sapiens,U2AF2,protein,11338,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02000163,hsa-miR-106b-5p,miRNA,MIMAT0000680,Homo sapiens,ALKBH5,protein,54890,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02000255,hsa-let-7c-5p,miRNA,MIMAT0000064,Homo sapiens,FUS,protein,2521,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02000557,hsa-miR-28-5p,miRNA,MIMAT0000085,Homo sapiens,LIN28B,protein,389421,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02003350,hsa-miR-30b-5p,miRNA,MIMAT0000420,Homo sapiens,PTBP1,protein,5725,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02004207,hsa-miR-181a-5p,miRNA,MIMAT0000256,Homo sapiens,PTPN22,protein,26191,Homo sapiens,Western Blot//Reporter Assay//RT-PCR,RAID,17382377,0.9526
+RAID02005473,hsa-miR-23b-3p,miRNA,MIMAT0000418,Homo sapiens,PTBP1,protein,5725,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02006549,hsa-miR-639,miRNA,MIMAT0003309,Homo sapiens,FMR1,protein,2332,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02009513,hsa-miR-181c-5p,miRNA,MIMAT0000258,Homo sapiens,LIN28A,protein,79727,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02010990,hsa-miR-581,miRNA,MIMAT0003246,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02011212,hsa-miR-320a,miRNA,MIMAT0000510,Homo sapiens,LIN28B,protein,389421,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02011662,hsa-miR-663a,miRNA,MIMAT0003326,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02013319,hsa-miR-133b,miRNA,MIMAT0000770,Homo sapiens,KCNH2,protein,3757,Homo sapiens,Reporter Assay//RT-PCR//Western Blot,RAID,17344217,0.9526
+RAID02016247,hsa-miR-497-5p,miRNA,MIMAT0002820,Homo sapiens,LIN28B,protein,389421,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02020128,mmu-let-7b-5p,miRNA,MIMAT0000522,Mus musculus,Lin28b,protein,380669,Mus musculus,RT-PCR,RAID,23811688//21512136,0.7311
+RAID02021610,hsa-miR-4751,miRNA,MIMAT0019888,Homo sapiens,ELAVL1,protein,1994,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02023711,hsa-miR-374a-5p,miRNA,MIMAT0000727,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02024714,hsa-miR-16-5p,miRNA,MIMAT0000069,Homo sapiens,LIN28A,protein,79727,Homo sapiens,CLIP,NPInter,22959275,0.5483
+RAID02033622,hsa-miR-146a-5p,miRNA,MIMAT0000449,Homo sapiens,FMR1,protein,2332,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02039392,hsa-miR-197-3p,miRNA,MIMAT0000227,Homo sapiens,LIN28B,protein,389421,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02041430,hsa-miR-320a,miRNA,MIMAT0000510,Homo sapiens,FXR1,protein,8087,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02042080,hsa-miR-320a,miRNA,MIMAT0000510,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02042383,hsa-miR-574-3p,miRNA,MIMAT0003239,Homo sapiens,FUS,protein,2521,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02048120,hsa-miR-148a-3p,miRNA,MIMAT0000243,Homo sapiens,EIF4A3,protein,9775,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02051230,hsa-miR-130b-3p,miRNA,MIMAT0000691,Homo sapiens,LIN28B,protein,389421,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02052175,mmu-miR-137-3p,miRNA,MIMAT0000149,Mus musculus,Fus,protein,233908,Mus musculus,CLIP-seq,starBase,None,0.5483
+RAID02052885,hsa-miR-1307-3p,miRNA,MIMAT0005951,Homo sapiens,FXR1,protein,8087,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02055510,hsa-miR-33b-5p,miRNA,MIMAT0003301,Homo sapiens,PTBP1,protein,5725,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02061565,mmu-let-7c-5p,miRNA,MIMAT0000523,Mus musculus,Tlr7,protein,170743,Mus musculus,Immunoassay//RT-PCR,RAID,25917529,0.8808
+RAID02061883,hsa-miR-1181,miRNA,MIMAT0005826,Homo sapiens,FMR1,protein,2332,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02062270,hsa-miR-136-5p,miRNA,MIMAT0000448,Homo sapiens,FUS,protein,2521,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02083033,hsa-miR-30e-3p,miRNA,MIMAT0000693,Homo sapiens,LIN28A,protein,79727,Homo sapiens,CLIP,NPInter,22959275,0.5483
+RAID02085985,hsa-miR-363-3p,miRNA,MIMAT0000707,Homo sapiens,LIN28B,protein,389421,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02087531,hsa-miR-374b-5p,miRNA,MIMAT0004955,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02096812,hsa-let-7d-5p,miRNA,MIMAT0000065,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02097577,mmu-miR-143-3p,miRNA,MIMAT0000247,Mus musculus,Fus,protein,233908,Mus musculus,CLIP-seq,starBase,None,0.5483
+RAID02117443,hsa-miR-4647,miRNA,MIMAT0019709,Homo sapiens,IGF2BP2,protein,10644,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02129603,hsa-miR-328-3p,miRNA,MIMAT0000752,Homo sapiens,LIN28B,protein,389421,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02130348,hsa-miR-143-3p,miRNA,MIMAT0000435,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02132171,mmu-miR-27b-3p,miRNA,MIMAT0000126,Mus musculus,Rbm3,protein,19652,Mus musculus,CLIP-seq,starBase,None,0.5483
+RAID02133221,hsa-miR-30a-5p,miRNA,MIMAT0000087,Homo sapiens,LIN28A,protein,79727,Homo sapiens,CLIP-seq//CLIP,NPInter//starBase,22959275,0.6606
+RAID02133569,hsa-miR-32-5p,miRNA,MIMAT0000090,Homo sapiens,FMR1,protein,2332,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02137078,hsa-let-7d-5p,miRNA,MIMAT0000065,Homo sapiens,IGF2BP1,protein,10642,Homo sapiens,RIP (RNA Immunoprecipitation)//PAR-CLIP,RAID,23069990,0.8785
+RAID02141327,hsa-miR-27a-3p,miRNA,MIMAT0000084,Homo sapiens,PTBP1,protein,5725,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02141685,hsa-miR-146b-5p,miRNA,MIMAT0002809,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02142125,hsa-miR-19a-3p,miRNA,MIMAT0000073,Homo sapiens,U2AF2,protein,11338,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02143631,hsa-miR-375,miRNA,MIMAT0000728,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02144196,hsa-let-7e-5p,miRNA,MIMAT0000066,Homo sapiens,PTBP1,protein,5725,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02144629,hsa-let-7b-5p,miRNA,MIMAT0000063,Homo sapiens,ZC3H7B,protein,23264,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02145855,hsa-miR-490-3p,miRNA,MIMAT0002806,Homo sapiens,FUS,protein,2521,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02146064,hsa-miR-145-5p,miRNA,MIMAT0000437,Homo sapiens,LIN28B,protein,389421,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02146868,hsa-miR-424-5p,miRNA,MIMAT0001341,Homo sapiens,FXR1,protein,8087,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02147842,hsa-miR-27a-3p,miRNA,MIMAT0000084,Homo sapiens,EIF4A3,protein,9775,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02152080,hsa-miR-10a-5p,miRNA,MIMAT0000253,Homo sapiens,FXR2,protein,9513,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02153353,hsa-miR-4673,miRNA,MIMAT0019755,Homo sapiens,EIF4A3,protein,9775,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02153564,hsa-miR-93-5p,miRNA,MIMAT0000093,Homo sapiens,PTBP1,protein,5725,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02153771,hsa-let-7e-5p,miRNA,MIMAT0000066,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02157085,hsa-let-7g-5p,miRNA,MIMAT0000414,Homo sapiens,LIN28A,protein,79727,Homo sapiens,RIP (RNA Immunoprecipitation)//IP (immunoprecipitation)//Northern Blot//EMSA (electrophoretic mobility shift assay)//Western Blot//RT-PCR//CLIP-seq//CLIP//ChIP (chromatin immunoprecipitation assay),NPInter//RAID//starBase,18951094//20178735//22959275//26440890//21297634,0.9993
+RAID02167655,hsa-miR-133b,miRNA,MIMAT0000770,Homo sapiens,LIN28A,protein,79727,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02172087,mmu-miR-21a-5p,miRNA,MIMAT0000530,Mus musculus,Stat5a,protein,20850,Mus musculus,Western Blot//RT-PCR//ChIP (chromatin immunoprecipitation assay),RAID,21469086,0.9462
+RAID02172944,hsa-miR-152-3p,miRNA,MIMAT0000438,Homo sapiens,EIF4A3,protein,9775,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02173370,hsa-let-7i-5p,miRNA,MIMAT0000415,Homo sapiens,FXR1,protein,8087,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02173667,hsa-mir-135a-1,miRNA,MI0000452,Homo sapiens,FUS,protein,2521,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02175377,hsa-miR-148b-3p,miRNA,MIMAT0000759,Homo sapiens,LIN28A,protein,79727,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02180883,hsa-miR-122-5p,miRNA,MIMAT0000421,Homo sapiens,LIN28B,protein,389421,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02192361,hsa-let-7g-5p,miRNA,MIMAT0000414,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02199833,hsa-miR-632,miRNA,MIMAT0003302,Homo sapiens,ELAVL1,protein,1994,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02200009,hsa-miR-149-5p,miRNA,MIMAT0000450,Homo sapiens,FUS,protein,2521,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02203699,hsa-mir-34b,miRNA,MI0000742,Homo sapiens,MYC,protein,4609,Homo sapiens,Western Blot//Reporter Assay,RAID,18768788,0.8808
+RAID02203761,hsa-miR-30d-5p,miRNA,MIMAT0000245,Homo sapiens,LIN28B,protein,389421,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02206529,hsa-miR-106b-5p,miRNA,MIMAT0000680,Homo sapiens,PTBP1,protein,5725,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02207226,hsa-miR-181d-5p,miRNA,MIMAT0002821,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02217687,hsa-miR-33b-5p,miRNA,MIMAT0003301,Homo sapiens,FUS,protein,2521,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02217785,hsa-miR-22-3p,miRNA,MIMAT0000077,Homo sapiens,PPARA,protein,5465,Homo sapiens,RT-PCR//Reporter Assay//Western Blot,RAID,19011694,0.9526
+RAID02221246,hsa-miR-135b-5p,miRNA,MIMAT0000758,Homo sapiens,LIN28A,protein,79727,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02227537,hsa-miR-20a-5p,miRNA,MIMAT0000075,Homo sapiens,TIAL1,protein,7073,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02237812,hsa-miR-23b-3p,miRNA,MIMAT0000418,Homo sapiens,MYC,protein,4609,Homo sapiens,Northern Blot//RT-PCR,RAID,19219026,0.8808
+RAID02237976,hsa-miR-107,miRNA,MIMAT0000104,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02238574,hsa-miR-4498,miRNA,MIMAT0019033,Homo sapiens,EIF4A3,protein,9775,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02239159,hsa-miR-210-3p,miRNA,MIMAT0000267,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02245738,hsa-miR-181d-5p,miRNA,MIMAT0002821,Homo sapiens,FUS,protein,2521,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02253219,hsa-miR-200c-3p,miRNA,MIMAT0000617,Homo sapiens,LIN28A,protein,79727,Homo sapiens,CLIP-seq//CLIP,NPInter//starBase,22959275,0.6606
+RAID02255560,hsa-miR-22-3p,miRNA,MIMAT0000077,Homo sapiens,FUS,protein,2521,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02257007,hsa-let-7d-5p,miRNA,MIMAT0000065,Homo sapiens,PTBP1,protein,5725,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02258043,hsa-miR-3155a,miRNA,MIMAT0015029,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02262224,hsa-miR-34a-5p,miRNA,MIMAT0000255,Homo sapiens,FXR1,protein,8087,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02267028,hsa-miR-146a-5p,miRNA,MIMAT0000449,Homo sapiens,FUS,protein,2521,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02267206,mmu-miR-27b-3p,miRNA,MIMAT0000126,Mus musculus,Fus,protein,233908,Mus musculus,CLIP-seq,starBase,None,0.5483
+RAID02268632,hsa-miR-412-3p,miRNA,MIMAT0002170,Homo sapiens,FUS,protein,2521,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02268936,hsa-miR-21-5p,miRNA,MIMAT0000076,Homo sapiens,FUS,protein,2521,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02278544,hsa-miR-200a-3p,miRNA,MIMAT0000682,Homo sapiens,LIN28A,protein,79727,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02278896,hsa-miR-1306-3p,miRNA,MIMAT0005950,Homo sapiens,EIF4A3,protein,9775,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02283080,hsa-miR-122-5p,miRNA,MIMAT0000421,Homo sapiens,EIF4A3,protein,9775,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02287192,hsa-miR-574-3p,miRNA,MIMAT0003239,Homo sapiens,EIF4A3,protein,9775,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02288543,hsa-miR-5699-3p,miRNA,MIMAT0022492,Homo sapiens,TNRC6A,protein,27327,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02289741,hsa-miR-605-5p,miRNA,MIMAT0003273,Homo sapiens,EIF4A3,protein,9775,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02296157,hsa-miR-17-5p,miRNA,MIMAT0000070,Homo sapiens,FMR1,protein,2332,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02297432,hsa-miR-34a-3p,miRNA,MIMAT0004557,Homo sapiens,LIN28A,protein,79727,Homo sapiens,CLIP,NPInter,22959275,0.5483
+RAID02300672,hsa-miR-3137,miRNA,MIMAT0015005,Homo sapiens,LIN28A,protein,79727,Homo sapiens,CLIP,NPInter,22959275,0.5483
+RAID02303933,mmu-miR-221-3p,miRNA,MIMAT0000669,Mus musculus,Zfp36,protein,22695,Mus musculus,RIP (RNA Immunoprecipitation)//Western Blot//Reporter Assay//RT-PCR,RAID,20435889,0.982
+RAID02304936,hsa-miR-346,miRNA,MIMAT0000773,Homo sapiens,FUS,protein,2521,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02305292,hsa-miR-302c-5p,miRNA,MIMAT0000716,Homo sapiens,LIN28A,protein,79727,Homo sapiens,CLIP,NPInter,22959275,0.5483
+RAID02307458,hsa-miR-1825,miRNA,MIMAT0006765,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02307516,hsa-miR-148a-3p,miRNA,MIMAT0000243,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02307669,hsa-let-7b-5p,miRNA,MIMAT0000063,Homo sapiens,LIN28A,protein,79727,Homo sapiens,IP (immunoprecipitation)//EMSA (electrophoretic mobility shift assay)//Western Blot//RT-PCR//CLIP-seq//CLIP,NPInter//starBase//RAID,18951094//20178735//22959275//26440890,0.9939
+RAID02308222,hsa-miR-576-5p,miRNA,MIMAT0003241,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02312471,hsa-miR-23b-3p,miRNA,MIMAT0000418,Homo sapiens,FUS,protein,2521,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02315277,hsa-miR-30a-5p,miRNA,MIMAT0000087,Homo sapiens,FMR1,protein,2332,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02315363,hsa-miR-663a,miRNA,MIMAT0003326,Homo sapiens,LIN28B,protein,389421,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02315549,hsa-miR-193b-3p,miRNA,MIMAT0002819,Homo sapiens,FXR1,protein,8087,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02321718,hsa-miR-1307-3p,miRNA,MIMAT0005951,Homo sapiens,EIF4A3,protein,9775,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02327611,hsa-miR-148a-3p,miRNA,MIMAT0000243,Homo sapiens,LIN28A,protein,79727,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02328190,hsa-miR-19a-3p,miRNA,MIMAT0000073,Homo sapiens,FUS,protein,2521,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02329389,hsa-miR-146b-5p,miRNA,MIMAT0002809,Homo sapiens,FUS,protein,2521,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02332875,hsa-miR-361-5p,miRNA,MIMAT0000703,Homo sapiens,EIF4A3,protein,9775,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02337984,hsa-miR-145-5p,miRNA,MIMAT0000437,Homo sapiens,UPF1,protein,5976,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02338804,hsa-miR-612,miRNA,MIMAT0003280,Homo sapiens,U2AF2,protein,11338,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02339940,hsa-miR-3652,miRNA,MIMAT0018072,Homo sapiens,FMR1,protein,2332,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02342115,hsa-miR-4519,miRNA,MIMAT0019056,Homo sapiens,FUS,protein,2521,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02351441,hsa-miR-4743-5p,miRNA,MIMAT0019874,Homo sapiens,EIF4A3,protein,9775,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02357810,hsa-miR-4751,miRNA,MIMAT0019888,Homo sapiens,EIF4A3,protein,9775,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02363223,hsa-miR-24-3p,miRNA,MIMAT0000080,Homo sapiens,TOP1,protein,7150,Homo sapiens,Western Blot,RAID,26748253,0.7311
+RAID02364795,hsa-miR-328-3p,miRNA,MIMAT0000752,Homo sapiens,FUS,protein,2521,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02371497,hsa-miR-30b-5p,miRNA,MIMAT0000420,Homo sapiens,EIF4A3,protein,9775,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02373735,hsa-let-7a-5p,miRNA,MIMAT0000062,Homo sapiens,LIN28B,protein,389421,Homo sapiens,RT-PCR//EMSA (electrophoretic mobility shift assay)//Reporter Assay//IP (immunoprecipitation)//Western Blot,RAID,20525879//26440890//18951094,0.9933
+RAID02373793,hsa-miR-107,miRNA,MIMAT0000104,Homo sapiens,FXR1,protein,8087,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02376863,hsa-miR-30e-5p,miRNA,MIMAT0000692,Homo sapiens,PTBP1,protein,5725,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02379111,hsa-miR-34a-5p,miRNA,MIMAT0000255,Homo sapiens,PTBP1,protein,5725,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02379363,hsa-miR-223-3p,miRNA,MIMAT0000280,Homo sapiens,LIN28B,protein,389421,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02383604,hsa-miR-28-5p,miRNA,MIMAT0000085,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02388440,hsa-miR-19a-3p,miRNA,MIMAT0000073,Homo sapiens,ELAVL1,protein,1994,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02389477,hsa-miR-27a-3p,miRNA,MIMAT0000084,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02390998,hsa-miR-15b-5p,miRNA,MIMAT0000417,Homo sapiens,LIN28B,protein,389421,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02391648,hsa-let-7c-5p,miRNA,MIMAT0000064,Homo sapiens,PTBP1,protein,5725,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02402128,hsa-miR-27a-3p,miRNA,MIMAT0000084,Homo sapiens,PPP2R4,protein,5524,Homo sapiens,RT-PCR,RAID,21460851,0.7311
+RAID02402372,hsa-miR-27b-3p,miRNA,MIMAT0000419,Homo sapiens,EIF4A3,protein,9775,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02410536,hsa-miR-93-5p,miRNA,MIMAT0000093,Homo sapiens,EIF4A3,protein,9775,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02414205,hsa-miR-4673,miRNA,MIMAT0019755,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02421380,hsa-miR-130b-3p,miRNA,MIMAT0000691,Homo sapiens,FMR1,protein,2332,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02430776,mmu-let-7g-5p,miRNA,MIMAT0000121,Mus musculus,Fus,protein,233908,Mus musculus,CLIP-seq,starBase,None,0.5483
+RAID02436573,hsa-miR-1306-3p,miRNA,MIMAT0005950,Homo sapiens,FMR1,protein,2332,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02437362,hsa-miR-320a,miRNA,MIMAT0000510,Homo sapiens,LIN28A,protein,79727,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02439095,hsa-miR-152-3p,miRNA,MIMAT0000438,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02441815,hsa-let-7b-5p,miRNA,MIMAT0000063,Homo sapiens,FUS,protein,2521,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02442820,mmu-miR-17-5p,miRNA,MIMAT0000649,Mus musculus,Fus,protein,233908,Mus musculus,CLIP-seq,starBase,None,0.5483
+RAID02445579,hsa-miR-429,miRNA,MIMAT0001536,Homo sapiens,LIN28B,protein,389421,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02446183,hsa-miR-760,miRNA,MIMAT0004957,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02450239,hsa-miR-10a-3p,miRNA,MIMAT0004555,Homo sapiens,LIN28A,protein,79727,Homo sapiens,CLIP,NPInter,22959275,0.5483
+RAID02452249,hsa-miR-30d-5p,miRNA,MIMAT0000245,Homo sapiens,FMR1,protein,2332,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02454890,hsa-let-7e-5p,miRNA,MIMAT0000066,Homo sapiens,IGF2BP1,protein,10642,Homo sapiens,RIP (RNA Immunoprecipitation)//PAR-CLIP,RAID,23069990,0.8785
+RAID02455034,mmu-let-7f-5p,miRNA,MIMAT0000525,Mus musculus,Lin28b,protein,380669,Mus musculus,RT-PCR,RAID,23811688,0.7311
+RAID02456271,hsa-miR-130a-3p,miRNA,MIMAT0000425,Homo sapiens,NRP1,protein,8829,Homo sapiens,Microarray,RAID,26573160,0.5483
+RAID02463823,hsa-miR-548b-3p,miRNA,MIMAT0003254,Homo sapiens,LIN28A,protein,79727,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02463871,hsa-miR-299-3p,miRNA,MIMAT0000687,Homo sapiens,FUS,protein,2521,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02464857,mmu-miR-221-3p,miRNA,MIMAT0000669,Mus musculus,Hnrnpd,protein,11991,Mus musculus,RIP (RNA Immunoprecipitation)//Western Blot//Reporter Assay//RT-PCR,RAID,20435889,0.982
+RAID02466560,hsa-miR-30a-5p,miRNA,MIMAT0000087,Homo sapiens,TIAL1,protein,7073,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02471311,hsa-miR-192-5p,miRNA,MIMAT0000222,Homo sapiens,LIN28B,protein,389421,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02476385,hsa-miR-92a-3p,miRNA,MIMAT0000092,Homo sapiens,ESR2,protein,2100,Homo sapiens,RT-PCR//IHC (Immunohistochemistry),RAID,26437339,0.8808
+RAID02481706,hsa-miR-939-5p,miRNA,MIMAT0004982,Homo sapiens,U2AF2,protein,11338,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02482841,hsa-miR-185-5p,miRNA,MIMAT0000455,Homo sapiens,LIN28A,protein,79727,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02487335,hsa-miR-222-3p,miRNA,MIMAT0000279,Homo sapiens,TIA1,protein,7072,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02488230,hsa-miR-205-5p,miRNA,MIMAT0000266,Homo sapiens,LIN28B,protein,389421,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02489914,mmu-miR-26b-5p,miRNA,MIMAT0000534,Mus musculus,Cirbp,protein,12696,Mus musculus,CLIP-seq,starBase,None,0.5483
+RAID02497381,hsa-miR-23b-3p,miRNA,MIMAT0000418,Homo sapiens,EIF4A3,protein,9775,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02509498,hsa-miR-296-5p,miRNA,MIMAT0000690,Homo sapiens,LIN28B,protein,389421,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02511911,hsa-miR-632,miRNA,MIMAT0003302,Homo sapiens,FUS,protein,2521,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02515179,hsa-miR-1307-3p,miRNA,MIMAT0005951,Homo sapiens,LIN28B,protein,389421,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02516295,hsa-miR-554,miRNA,MIMAT0003217,Homo sapiens,EIF4A3,protein,9775,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02517746,hsa-miR-761,miRNA,MIMAT0010364,Homo sapiens,SRSF1,protein,6426,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02521393,hsa-miR-1306-3p,miRNA,MIMAT0005950,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02521548,hsa-miR-30a-5p,miRNA,MIMAT0000087,Homo sapiens,AGO2,protein,27161,Homo sapiens,Northern Blot//IP (immunoprecipitation),RAID,22844086,0.8808
+RAID02526475,hsa-miR-424-5p,miRNA,MIMAT0001341,Homo sapiens,PTBP1,protein,5725,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02527357,hsa-miR-647,miRNA,MIMAT0003317,Homo sapiens,UPF1,protein,5976,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02527585,hsa-let-7b-5p,miRNA,MIMAT0000063,Homo sapiens,PTBP1,protein,5725,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02527894,hsa-miR-221-3p,miRNA,MIMAT0000278,Homo sapiens,LIN28B,protein,389421,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02530056,hsa-miR-141-3p,miRNA,MIMAT0000432,Homo sapiens,LIN28A,protein,79727,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02530706,hsa-let-7e-5p,miRNA,MIMAT0000066,Homo sapiens,FXR1,protein,8087,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02533336,hsa-miR-4651,miRNA,MIMAT0019715,Homo sapiens,EIF4A3,protein,9775,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02537264,hsa-miR-27b-3p,miRNA,MIMAT0000419,Homo sapiens,FMR1,protein,2332,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02547951,hsa-miR-125a-5p,miRNA,MIMAT0000443,Homo sapiens,FXR1,protein,8087,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02552273,hsa-miR-632,miRNA,MIMAT0003302,Homo sapiens,EIF4A3,protein,9775,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02572119,hsa-miR-335-5p,miRNA,MIMAT0000765,Homo sapiens,BCL2L2,protein,599,Homo sapiens,RT-PCR//Reporter Assay,NPInter,23708561,0.8808
+RAID02572875,hsa-miR-3145-3p,miRNA,MIMAT0015016,Homo sapiens,TNRC6A,protein,27327,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02574673,hsa-miR-455-5p,miRNA,MIMAT0003150,Homo sapiens,PTBP1,protein,5725,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02583713,mmu-miR-93-5p,miRNA,MIMAT0000540,Mus musculus,Ptbp2,protein,56195,Mus musculus,CLIP-seq,starBase,None,0.5483
+RAID02584859,hsa-miR-1307-3p,miRNA,MIMAT0005951,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02591096,hsa-miR-452-5p,miRNA,MIMAT0001635,Homo sapiens,EIF4A3,protein,9775,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02592129,hsa-miR-605-5p,miRNA,MIMAT0003273,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02597817,hsa-let-7g-5p,miRNA,MIMAT0000414,Homo sapiens,FMR1,protein,2332,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02597883,hsa-miR-22-3p,miRNA,MIMAT0000077,Homo sapiens,ZC3H7B,protein,23264,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02603820,hsa-miR-193a-3p,miRNA,MIMAT0000459,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02604442,hsa-miR-374b-5p,miRNA,MIMAT0004955,Homo sapiens,FMR1,protein,2332,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02614204,hsa-miR-30b-5p,miRNA,MIMAT0000420,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02614645,hsa-miR-140-5p,miRNA,MIMAT0000431,Homo sapiens,EIF4A3,protein,9775,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02616590,hsa-miR-361-5p,miRNA,MIMAT0000703,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02626069,hsa-miR-937-3p,miRNA,MIMAT0004980,Homo sapiens,ELAVL1,protein,1994,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02627160,hsa-miR-302d-5p,miRNA,MIMAT0004685,Homo sapiens,LIN28A,protein,79727,Homo sapiens,CLIP,NPInter,22959275,0.5483
+RAID02642762,hsa-miR-301b-3p,miRNA,MIMAT0004958,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02644389,hsa-miR-152-3p,miRNA,MIMAT0000438,Homo sapiens,FMR1,protein,2332,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02645895,hsa-miR-125a-5p,miRNA,MIMAT0000443,Homo sapiens,EIF4A3,protein,9775,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02651834,hsa-miR-148b-3p,miRNA,MIMAT0000759,Homo sapiens,LIN28B,protein,389421,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02653502,rno-miR-103-3p,miRNA,MIMAT0000824,Rattus norvegicus,Cav1,protein,25404,Rattus norvegicus,Western Blot,RAID,26038570,0.7311
+RAID02653597,hsa-let-7c-5p,miRNA,MIMAT0000064,Homo sapiens,FXR1,protein,8087,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02656902,hsa-miR-93-5p,miRNA,MIMAT0000093,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02661574,hsa-miR-454-3p,miRNA,MIMAT0003885,Homo sapiens,LIN28A,protein,79727,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02663318,mmu-miR-136-5p,miRNA,MIMAT0000148,Mus musculus,Fus,protein,233908,Mus musculus,CLIP-seq,starBase,None,0.5483
+RAID02666562,hsa-miR-301a-3p,miRNA,MIMAT0000688,Homo sapiens,EIF4A3,protein,9775,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02669412,hsa-miR-29a-3p,miRNA,MIMAT0000086,Homo sapiens,FUS,protein,2521,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02673138,hsa-miR-497-5p,miRNA,MIMAT0002820,Homo sapiens,FUS,protein,2521,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02674413,hsa-miR-27b-3p,miRNA,MIMAT0000419,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02684417,hsa-miR-27b-3p,miRNA,MIMAT0000419,Homo sapiens,PTBP1,protein,5725,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02684759,hsa-miR-148b-3p,miRNA,MIMAT0000759,Homo sapiens,PTBP1,protein,5725,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02686502,hsa-let-7b-5p,miRNA,MIMAT0000063,Homo sapiens,HNRNPD,protein,3184,Homo sapiens,RT-PCR//EMSA (electrophoretic mobility shift assay)//Northern Blot//Western Blot,RAID,26253535,0.982
+RAID02690451,hsa-miR-21-5p,miRNA,MIMAT0000076,Homo sapiens,EWSR1,protein,2130,Homo sapiens,CLIP,NPInter,24813895,0.5483
+RAID02701826,hsa-miR-18a-5p,miRNA,MIMAT0000072,Homo sapiens,PTBP1,protein,5725,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02702642,hsa-miR-148b-3p,miRNA,MIMAT0000759,Homo sapiens,EIF4A3,protein,9775,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02705036,hsa-miR-141-3p,miRNA,MIMAT0000432,Homo sapiens,EIF4A3,protein,9775,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02706486,hsa-miR-29a-3p,miRNA,MIMAT0000086,Homo sapiens,FMR1,protein,2332,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02709645,hsa-let-7d-5p,miRNA,MIMAT0000065,Homo sapiens,LIN28A,protein,79727,Homo sapiens,IP (immunoprecipitation)//EMSA (electrophoretic mobility shift assay)//Western Blot//RT-PCR//CLIP-seq//CLIP,NPInter//starBase//RAID,18951094//20178735//22959275//26440890,0.9939
+RAID02710244,hsa-let-7b-5p,miRNA,MIMAT0000063,Homo sapiens,LIN28B,protein,389421,Homo sapiens,Reporter Assay//IP (immunoprecipitation)//EMSA (electrophoretic mobility shift assay)//Western Blot//RT-PCR//CLIP-seq,RAID//starBase,26440890//20525879//18951094,0.997
+RAID02728623,hsa-miR-612,miRNA,MIMAT0003280,Homo sapiens,FUS,protein,2521,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02728652,mmu-let-7d-5p,miRNA,MIMAT0000383,Mus musculus,Fus,protein,233908,Mus musculus,CLIP-seq,starBase,None,0.5483
+RAID02735687,hsa-miR-224-5p,miRNA,MIMAT0000281,Homo sapiens,PTBP1,protein,5725,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02735829,hsa-miR-200a-3p,miRNA,MIMAT0000682,Homo sapiens,FXR1,protein,8087,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02738127,hsa-miR-22-3p,miRNA,MIMAT0000077,Homo sapiens,LIN28A,protein,79727,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02739510,hsa-miR-505-3p,miRNA,MIMAT0002876,Homo sapiens,LIN28B,protein,389421,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02742208,hsa-miR-23b-3p,miRNA,MIMAT0000418,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02747752,hsa-miR-3609,miRNA,MIMAT0017986,Homo sapiens,FMR1,protein,2332,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02747882,hsa-miR-107,miRNA,MIMAT0000104,Homo sapiens,FUS,protein,2521,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02748989,hsa-miR-663a,miRNA,MIMAT0003326,Homo sapiens,EWSR1,protein,2130,Homo sapiens,CLIP,NPInter,24813895,0.5483
+RAID02749064,hsa-miR-1587,miRNA,MIMAT0019077,Homo sapiens,EIF4A3,protein,9775,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02750334,hsa-miR-19a-3p,miRNA,MIMAT0000073,Homo sapiens,EIF4A3,protein,9775,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02754198,hsa-miR-492,miRNA,MIMAT0002812,Homo sapiens,VEGFA,protein,7422,Homo sapiens,Nucleic acid transfection//Reporter Assay,NPInter,23802567,0.8808
+RAID02761290,hsa-miR-4519,miRNA,MIMAT0019056,Homo sapiens,EIF4A3,protein,9775,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02764801,hsa-miR-29a-3p,miRNA,MIMAT0000086,Homo sapiens,LIN28A,protein,79727,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02771107,hsa-miR-196b-5p,miRNA,MIMAT0001080,Homo sapiens,EIF4A3,protein,9775,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02772448,hsa-miR-130a-3p,miRNA,MIMAT0000425,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02779272,hsa-miR-25-3p,miRNA,MIMAT0000081,Homo sapiens,FXR1,protein,8087,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02783721,hsa-miR-182-5p,miRNA,MIMAT0000259,Homo sapiens,LIN28B,protein,389421,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02809900,hsa-miR-23b-3p,miRNA,MIMAT0000418,Homo sapiens,ALKBH5,protein,54890,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02813598,hsa-miR-23b-3p,miRNA,MIMAT0000418,Homo sapiens,RTCB,protein,51493,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02813993,hsa-miR-182-5p,miRNA,MIMAT0000259,Homo sapiens,EIF4A3,protein,9775,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02814066,hsa-let-7f-5p,miRNA,MIMAT0000067,Homo sapiens,IGF2BP1,protein,10642,Homo sapiens,RIP (RNA Immunoprecipitation)//PAR-CLIP,RAID,23069990,0.8785
+RAID02816272,hsa-miR-92a-3p,miRNA,MIMAT0000092,Homo sapiens,AGO2,protein,27161,Homo sapiens,Northern Blot//IP (immunoprecipitation),RAID,22844086,0.8808
+RAID02821981,hsa-miR-4751,miRNA,MIMAT0019888,Homo sapiens,UPF1,protein,5976,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02823140,hsa-miR-4461,miRNA,MIMAT0018983,Homo sapiens,IGF2BP3,protein,10643,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02825538,hsa-miR-193a-3p,miRNA,MIMAT0000459,Homo sapiens,LIN28A,protein,79727,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02830682,hsa-miR-221-3p,miRNA,MIMAT0000278,Homo sapiens,LIN28A,protein,79727,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02842662,hsa-miR-940,miRNA,MIMAT0004983,Homo sapiens,EIF4A3,protein,9775,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02844738,hsa-miR-4647,miRNA,MIMAT0019709,Homo sapiens,RTCB,protein,51493,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02846661,hsa-miR-361-5p,miRNA,MIMAT0000703,Homo sapiens,FXR1,protein,8087,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02861135,hsa-miR-3155a,miRNA,MIMAT0015029,Homo sapiens,TNRC6A,protein,27327,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02867303,hsa-let-7d-3p,miRNA,MIMAT0004484,Homo sapiens,LIN28A,protein,79727,Homo sapiens,CLIP,NPInter,22959275,0.5483
+RAID02867378,hsa-miR-190a-5p,miRNA,MIMAT0000458,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02869817,hsa-miR-663a,miRNA,MIMAT0003326,Homo sapiens,FUS,protein,2521,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02871612,hsa-miR-140-5p,miRNA,MIMAT0000431,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02872199,hsa-miR-3129-5p,miRNA,MIMAT0014992,Homo sapiens,IGF2BP2,protein,10644,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02874176,hsa-miR-658,miRNA,MIMAT0003336,Homo sapiens,UPF1,protein,5976,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02880469,hsa-miR-106b-5p,miRNA,MIMAT0000680,Homo sapiens,LIN28A,protein,79727,Homo sapiens,CLIP-seq//CLIP,NPInter//starBase,22959275,0.6606
+RAID02880999,hsa-miR-18a-5p,miRNA,MIMAT0000072,Homo sapiens,U2AF2,protein,11338,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02882116,hsa-miR-639,miRNA,MIMAT0003309,Homo sapiens,EIF4A3,protein,9775,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02882729,hsa-miR-222-3p,miRNA,MIMAT0000279,Homo sapiens,LIN28B,protein,389421,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02888172,hsa-miR-195-5p,miRNA,MIMAT0000461,Homo sapiens,EIF4A3,protein,9775,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02891616,hsa-let-7a-5p,miRNA,MIMAT0000062,Homo sapiens,AGO3,protein,192669,Homo sapiens,Northern Blot//IP (immunoprecipitation),RAID,22844086,0.8808
+RAID02894612,hsa-miR-492,miRNA,MIMAT0002812,Homo sapiens,BRAF,protein,673,Homo sapiens,Western Blot,NPInter,23802567,0.7311
+RAID02897858,hsa-miR-3660,miRNA,MIMAT0018081,Homo sapiens,EIF4A3,protein,9775,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02912594,hsa-miR-937-3p,miRNA,MIMAT0004980,Homo sapiens,IGF2BP3,protein,10643,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02915656,hsa-miR-301a-3p,miRNA,MIMAT0000688,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02916665,hsa-miR-30e-5p,miRNA,MIMAT0000692,Homo sapiens,LIN28A,protein,79727,Homo sapiens,CLIP-seq//CLIP,NPInter//starBase,22959275,0.6606
+RAID02918800,hsa-miR-125a-5p,miRNA,MIMAT0000443,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02919205,mmu-miR-20a-5p,miRNA,MIMAT0000529,Mus musculus,Rbm3,protein,19652,Mus musculus,CLIP-seq,starBase,None,0.5483
+RAID02928877,hsa-miR-3682-3p,miRNA,MIMAT0018110,Homo sapiens,IGF2BP3,protein,10643,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02929196,hsa-miR-32-5p,miRNA,MIMAT0000090,Homo sapiens,EIF4A3,protein,9775,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02931970,hsa-miR-30d-5p,miRNA,MIMAT0000245,Homo sapiens,FUS,protein,2521,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02933560,hsa-miR-4517,miRNA,MIMAT0019054,Homo sapiens,ZC3H7B,protein,23264,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02933960,hsa-miR-612,miRNA,MIMAT0003280,Homo sapiens,EIF4A3,protein,9775,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02942815,hsa-miR-93-5p,miRNA,MIMAT0000093,Homo sapiens,RTCB,protein,51493,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02943770,hsa-miR-25-3p,miRNA,MIMAT0000081,Homo sapiens,EIF4A3,protein,9775,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02948653,hsa-miR-675-5p,miRNA,MIMAT0004284,Homo sapiens,EIF4A3,protein,9775,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02950416,mmu-miR-21a-5p,miRNA,MIMAT0000530,Mus musculus,Sox2,protein,20674,Mus musculus,Western Blot//ISH (In Situ Hybridization),RAID,26209818,0.8808
+RAID02951030,mmu-miR-96-5p,miRNA,MIMAT0000541,Mus musculus,Rbm3,protein,19652,Mus musculus,CLIP-seq,starBase,None,0.5483
+RAID02952785,hsa-mir-133a-1,miRNA,MI0000450,Homo sapiens,EIF4A3,protein,9775,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02961576,hsa-miR-937-3p,miRNA,MIMAT0004980,Homo sapiens,EIF4A3,protein,9775,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02967716,hsa-miR-222-3p,miRNA,MIMAT0000279,Homo sapiens,FUS,protein,2521,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02968207,hsa-miR-5683,miRNA,MIMAT0022472,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02968624,hsa-miR-922,miRNA,MIMAT0004972,Homo sapiens,FUS,protein,2521,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02969188,hsa-miR-148b-3p,miRNA,MIMAT0000759,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02971496,hsa-miR-30a-5p,miRNA,MIMAT0000087,Homo sapiens,AGO1,protein,26523,Homo sapiens,Western Blot//IP (immunoprecipitation),RAID,26912082,0.8808
+RAID02976419,hsa-miR-29c-3p,miRNA,MIMAT0000681,Homo sapiens,FUS,protein,2521,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02989786,hsa-miR-1587,miRNA,MIMAT0019077,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02991028,hsa-miR-191-5p,miRNA,MIMAT0000440,Homo sapiens,PTBP1,protein,5725,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02993060,hsa-miR-1307-3p,miRNA,MIMAT0005951,Homo sapiens,FUS,protein,2521,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02994898,mmu-miR-30e-5p,miRNA,MIMAT0000248,Mus musculus,Fus,protein,233908,Mus musculus,CLIP-seq,starBase,None,0.5483
+RAID02995181,hsa-miR-10a-5p,miRNA,MIMAT0000253,Homo sapiens,UPF1,protein,5976,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02996850,hsa-miR-140-5p,miRNA,MIMAT0000431,Homo sapiens,LIN28B,protein,389421,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID02998757,hsa-miR-9-5p,miRNA,MIMAT0000441,Homo sapiens,NTRK3,protein,4916,Homo sapiens,Western Blot//Reporter Assay//RT-PCR,RAID,17483472,0.9526
+RAID03004941,hsa-miR-545-3p,miRNA,MIMAT0003165,Homo sapiens,EIF4A3,protein,9775,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03007586,hsa-miR-33b-5p,miRNA,MIMAT0003301,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03009899,hsa-miR-23b-3p,miRNA,MIMAT0000418,Homo sapiens,FMR1,protein,2332,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03016605,hsa-miR-19a-3p,miRNA,MIMAT0000073,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03019953,hsa-miR-4461,miRNA,MIMAT0018983,Homo sapiens,QKI,protein,9444,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03034243,hsa-miR-196b-5p,miRNA,MIMAT0001080,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03034404,hsa-miR-647,miRNA,MIMAT0003317,Homo sapiens,EIF4A3,protein,9775,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03036398,hsa-miR-4254,miRNA,MIMAT0016884,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03039304,mmu-miR-20a-5p,miRNA,MIMAT0000529,Mus musculus,Fus,protein,233908,Mus musculus,CLIP-seq,starBase,None,0.5483
+RAID03039521,hsa-miR-19a-3p,miRNA,MIMAT0000073,Homo sapiens,LIN28B,protein,389421,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03040204,hsa-miR-150-5p,miRNA,MIMAT0000451,Homo sapiens,FUS,protein,2521,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03044189,hsa-let-7b-5p,miRNA,MIMAT0000063,Homo sapiens,FMR1,protein,2332,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03045699,hsa-miR-1266-5p,miRNA,MIMAT0005920,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03046976,mmu-miR-30e-5p,miRNA,MIMAT0000248,Mus musculus,Ptbp2,protein,56195,Mus musculus,CLIP-seq,starBase,None,0.5483
+RAID03051840,hsa-let-7c-5p,miRNA,MIMAT0000064,Homo sapiens,LIN28B,protein,389421,Homo sapiens,Western Blot//EMSA (electrophoretic mobility shift assay)//RT-PCR//CLIP-seq,starBase//RAID,26440890,0.9786
+RAID03052032,hsa-miR-3159,miRNA,MIMAT0015033,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03054063,hsa-miR-4518,miRNA,MIMAT0019055,Homo sapiens,FUS,protein,2521,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03061958,hsa-miR-150-5p,miRNA,MIMAT0000451,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03062773,hsa-miR-1228-3p,miRNA,MIMAT0005583,Homo sapiens,EIF4A3,protein,9775,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03069531,hsa-miR-133b,miRNA,MIMAT0000770,Homo sapiens,FUS,protein,2521,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03069554,hsa-miR-3173-3p,miRNA,MIMAT0015048,Homo sapiens,TNRC6A,protein,27327,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03069842,hsa-miR-342-3p,miRNA,MIMAT0000753,Homo sapiens,LIN28B,protein,389421,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03070381,hsa-miR-2682-5p,miRNA,MIMAT0013517,Homo sapiens,TNRC6A,protein,27327,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03071691,hsa-let-7i-5p,miRNA,MIMAT0000415,Homo sapiens,EIF4A3,protein,9775,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03072462,hsa-miR-181d-5p,miRNA,MIMAT0002821,Homo sapiens,LIN28A,protein,79727,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03075736,hsa-miR-374a-5p,miRNA,MIMAT0000727,Homo sapiens,FMR1,protein,2332,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03081569,hsa-miR-140-5p,miRNA,MIMAT0000431,Homo sapiens,LIN28A,protein,79727,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03084188,hsa-miR-182-5p,miRNA,MIMAT0000259,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03086339,hsa-miR-367-3p,miRNA,MIMAT0000719,Homo sapiens,LIN28A,protein,79727,Homo sapiens,CLIP,NPInter,22959275,0.5483
+RAID03087967,hsa-miR-940,miRNA,MIMAT0004983,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03095084,hsa-miR-125b-5p,miRNA,MIMAT0000423,Homo sapiens,TIAL1,protein,7073,Homo sapiens,RIP (RNA Immunoprecipitation)//Western Blot//Reporter Assay//RT-PCR,RAID,20435889,0.982
+RAID03096239,hsa-miR-758-3p,miRNA,MIMAT0003879,Homo sapiens,FUS,protein,2521,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03097192,hsa-miR-18a-5p,miRNA,MIMAT0000072,Homo sapiens,ELAVL1,protein,1994,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03097757,hsa-miR-3192-5p,miRNA,MIMAT0015076,Homo sapiens,EIF4A3,protein,9775,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03099506,hsa-miR-19a-3p,miRNA,MIMAT0000073,Homo sapiens,LIN28A,protein,79727,Homo sapiens,CLIP-seq//CLIP,NPInter//starBase,22959275,0.6606
+RAID03100024,hsa-miR-32-5p,miRNA,MIMAT0000090,Homo sapiens,PTBP1,protein,5725,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03103302,hsa-miR-195-5p,miRNA,MIMAT0000461,Homo sapiens,PTBP1,protein,5725,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03104805,mmu-let-7a-5p,miRNA,MIMAT0000521,Mus musculus,Lin28b,protein,380669,Mus musculus,RT-PCR,RAID,23811688//21512136,0.7311
+RAID03107815,hsa-miR-1307-3p,miRNA,MIMAT0005951,Homo sapiens,LIN28A,protein,79727,Homo sapiens,CLIP-seq//CLIP,NPInter//starBase,22959275,0.6606
+RAID03109763,hsa-miR-939-5p,miRNA,MIMAT0004982,Homo sapiens,EIF4A3,protein,9775,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03117596,hsa-miR-34a-5p,miRNA,MIMAT0000255,Homo sapiens,RTCB,protein,51493,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03126046,hsa-miR-1229-3p,miRNA,MIMAT0005584,Homo sapiens,EIF4A3,protein,9775,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03127398,hsa-miR-144-3p,miRNA,MIMAT0000436,Homo sapiens,LIN28A,protein,79727,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03127521,hsa-miR-141-3p,miRNA,MIMAT0000432,Homo sapiens,FUS,protein,2521,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03129046,hsa-miR-3664-5p,miRNA,MIMAT0018086,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03134949,hsa-miR-4647,miRNA,MIMAT0019709,Homo sapiens,LIN28A,protein,79727,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03137990,hsa-miR-221-3p,miRNA,MIMAT0000278,Homo sapiens,FXR1,protein,8087,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03138176,hsa-miR-187-3p,miRNA,MIMAT0000262,Homo sapiens,FUS,protein,2521,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03139560,hsa-miR-375,miRNA,MIMAT0000728,Homo sapiens,LIN28B,protein,389421,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03139731,hsa-miR-195-5p,miRNA,MIMAT0000461,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03139778,hsa-miR-3652,miRNA,MIMAT0018072,Homo sapiens,U2AF2,protein,11338,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03140893,hsa-miR-421,miRNA,MIMAT0003339,Homo sapiens,EIF4A3,protein,9775,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03142708,hsa-miR-1825,miRNA,MIMAT0006765,Homo sapiens,FXR2,protein,9513,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03143368,hsa-miR-29c-3p,miRNA,MIMAT0000681,Homo sapiens,FMR1,protein,2332,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03150189,hsa-miR-17-5p,miRNA,MIMAT0000070,Homo sapiens,U2AF2,protein,11338,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03150270,hsa-miR-21-5p,miRNA,MIMAT0000076,Homo sapiens,ZC3H7B,protein,23264,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03151328,hsa-let-7f-5p,miRNA,MIMAT0000067,Homo sapiens,LIN28A,protein,79727,Homo sapiens,IP (immunoprecipitation)//EMSA (electrophoretic mobility shift assay)//RT-PCR//Western Blot//CLIP,NPInter//RAID,20178735//22959275//26440890,0.9919
+RAID03152492,hsa-miR-23a-3p,miRNA,MIMAT0000078,Homo sapiens,AGO2,protein,27161,Homo sapiens,Northern Blot//IP (immunoprecipitation),RAID,22844086,0.8808
+RAID03154388,hsa-miR-10a-5p,miRNA,MIMAT0000253,Homo sapiens,U2AF2,protein,11338,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03154426,hsa-miR-133a-3p,miRNA,MIMAT0000427,Homo sapiens,HLA-G,protein,3135,Homo sapiens,RT-PCR,NPInter,22877943,0.7311
+RAID03155780,mmu-miR-328-3p,miRNA,MIMAT0000565,Mus musculus,Fus,protein,233908,Mus musculus,CLIP-seq,starBase,None,0.5483
+RAID03156649,hsa-miR-1271-5p,miRNA,MIMAT0005796,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03157845,hsa-miR-377-3p,miRNA,MIMAT0000730,Homo sapiens,FUS,protein,2521,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03158131,hsa-miR-182-5p,miRNA,MIMAT0000259,Homo sapiens,FUS,protein,2521,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03158425,hsa-miR-361-5p,miRNA,MIMAT0000703,Homo sapiens,LIN28A,protein,79727,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03159085,rno-miR-107-3p,miRNA,MIMAT0000826,Rattus norvegicus,Fadd,protein,266610,Rattus norvegicus,Reporter Assay//RT-PCR//Western Blot,RAID,26038570,0.9526
+RAID03164328,hsa-miR-3660,miRNA,MIMAT0018081,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03165504,hsa-miR-30e-5p,miRNA,MIMAT0000692,Homo sapiens,FMR1,protein,2332,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03170137,hsa-miR-495-3p,miRNA,MIMAT0002817,Homo sapiens,FUS,protein,2521,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03174819,hsa-miR-501-5p,miRNA,MIMAT0002872,Homo sapiens,EIF4A3,protein,9775,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03175353,hsa-miR-10a-5p,miRNA,MIMAT0000253,Homo sapiens,FUS,protein,2521,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03175467,hsa-miR-140-5p,miRNA,MIMAT0000431,Homo sapiens,FUS,protein,2521,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03176271,hsa-miR-15b-5p,miRNA,MIMAT0000417,Homo sapiens,PTBP1,protein,5725,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03178976,hsa-miR-612,miRNA,MIMAT0003280,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03180368,hsa-miR-29a-3p,miRNA,MIMAT0000086,Homo sapiens,HNRNPA1,protein,3178,Homo sapiens,IP (immunoprecipitation)//RT-PCR,RAID,26494299,0.8808
+RAID03182871,hsa-miR-675-5p,miRNA,MIMAT0004284,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03183105,hsa-miR-4647,miRNA,MIMAT0019709,Homo sapiens,UPF1,protein,5976,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03184928,hsa-miR-32-5p,miRNA,MIMAT0000090,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03186830,hsa-miR-1293,miRNA,MIMAT0005883,Homo sapiens,EIF4A3,protein,9775,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03186857,hsa-miR-4458,miRNA,MIMAT0018980,Homo sapiens,UPF1,protein,5976,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03187600,hsa-miR-503-5p,miRNA,MIMAT0002874,Homo sapiens,FMR1,protein,2332,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03188285,hsa-miR-26b-5p,miRNA,MIMAT0000083,Homo sapiens,FUS,protein,2521,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03195875,mmu-miR-222-3p,miRNA,MIMAT0000670,Mus musculus,Fus,protein,233908,Mus musculus,CLIP-seq,starBase,None,0.5483
+RAID03198454,hsa-miR-3609,miRNA,MIMAT0017986,Homo sapiens,IGF2BP3,protein,10643,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03198748,hsa-mir-133a-1,miRNA,MI0000450,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03200977,hsa-miR-630,miRNA,MIMAT0003299,Homo sapiens,UPF1,protein,5976,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03201742,hsa-miR-25-3p,miRNA,MIMAT0000081,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03206267,hsa-miR-1181,miRNA,MIMAT0005826,Homo sapiens,FXR2,protein,9513,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03213415,hsa-miR-130b-3p,miRNA,MIMAT0000691,Homo sapiens,LIN28A,protein,79727,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03214455,mmu-miR-212-3p,miRNA,MIMAT0000659,Mus musculus,Fus,protein,233908,Mus musculus,CLIP-seq,starBase,None,0.5483
+RAID03215425,hsa-miR-21-5p,miRNA,MIMAT0000076,Homo sapiens,FXR1,protein,8087,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03222951,hsa-miR-937-3p,miRNA,MIMAT0004980,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03226241,hsa-miR-31-5p,miRNA,MIMAT0000089,Homo sapiens,FUS,protein,2521,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03227174,hsa-miR-31-5p,miRNA,MIMAT0000089,Homo sapiens,EIF4A3,protein,9775,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03227332,hsa-miR-639,miRNA,MIMAT0003309,Homo sapiens,PTBP1,protein,5725,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03232896,hsa-miR-4461,miRNA,MIMAT0018983,Homo sapiens,IGF2BP2,protein,10644,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03239304,hsa-miR-98-5p,miRNA,MIMAT0000096,Homo sapiens,LIN28B,protein,389421,Homo sapiens,Western Blot//EMSA (electrophoretic mobility shift assay)//Reporter Assay//RT-PCR,RAID,26440890//20525879,0.982
+RAID03245229,hsa-miR-203a-3p,miRNA,MIMAT0000264,Homo sapiens,LIN28B,protein,389421,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03247042,hsa-miR-122-5p,miRNA,MIMAT0000421,Homo sapiens,HNRNPK,protein,3190,Homo sapiens,Western Blot//RT-PCR,RAID,26330540,0.8808
+RAID03252053,hsa-miR-3922-3p,miRNA,MIMAT0018197,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03257049,hsa-miR-155-5p,miRNA,MIMAT0000646,Homo sapiens,PTBP1,protein,5725,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03270473,hsa-miR-222-3p,miRNA,MIMAT0000279,Homo sapiens,TIAL1,protein,7073,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03278464,hsa-miR-221-3p,miRNA,MIMAT0000278,Homo sapiens,TBK1,protein,29110,Homo sapiens,Reporter Assay//RT-PCR//Western Blot//Microarray,RAID,20018759,0.9786
+RAID03279424,hsa-miR-148b-3p,miRNA,MIMAT0000759,Homo sapiens,FMR1,protein,2332,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03281170,hsa-miR-491-5p,miRNA,MIMAT0002807,Homo sapiens,LIN28B,protein,389421,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03284804,hsa-miR-491-5p,miRNA,MIMAT0002807,Homo sapiens,BCL2L1,protein,598,Homo sapiens,Western Blot//Reporter Assay//RT-PCR,RAID,20039318,0.9526
+RAID03286732,hsa-miR-339-5p,miRNA,MIMAT0000764,Homo sapiens,LIN28A,protein,79727,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03291128,hsa-miR-26b-5p,miRNA,MIMAT0000083,Homo sapiens,LIN28A,protein,79727,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03299731,hsa-miR-374b-5p,miRNA,MIMAT0004955,Homo sapiens,LIN28A,protein,79727,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03307927,hsa-miR-503-5p,miRNA,MIMAT0002874,Homo sapiens,EIF4A3,protein,9775,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03308745,hsa-miR-181a-5p,miRNA,MIMAT0000256,Homo sapiens,DUSP6,protein,1848,Homo sapiens,Western Blot//Reporter Assay//RT-PCR,RAID,17382377,0.9526
+RAID03312671,hsa-miR-152-3p,miRNA,MIMAT0000438,Homo sapiens,PTBP1,protein,5725,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03314278,hsa-let-7i-5p,miRNA,MIMAT0000415,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03316444,hsa-mir-133a-1,miRNA,MI0000450,Homo sapiens,FMR1,protein,2332,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03320448,hsa-miR-21-5p,miRNA,MIMAT0000076,Homo sapiens,LIN28A,protein,79727,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03321316,hsa-miR-874-3p,miRNA,MIMAT0004911,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03324495,hsa-miR-1228-3p,miRNA,MIMAT0005583,Homo sapiens,FMR1,protein,2332,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03327829,hsa-miR-200a-3p,miRNA,MIMAT0000682,Homo sapiens,WNT5A,protein,7474,Homo sapiens,Western Blot,NPInter,24038735,0.7311
+RAID03333252,hsa-miR-335-5p,miRNA,MIMAT0000765,Homo sapiens,FUS,protein,2521,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03334338,hsa-let-7b-5p,miRNA,MIMAT0000063,Homo sapiens,RTCB,protein,51493,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03335212,hsa-miR-27b-3p,miRNA,MIMAT0000419,Homo sapiens,LIN28B,protein,389421,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03336417,hsa-miR-296-5p,miRNA,MIMAT0000690,Homo sapiens,FXR1,protein,8087,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03339803,hsa-miR-3192-5p,miRNA,MIMAT0015076,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03340924,hsa-miR-205-5p,miRNA,MIMAT0000266,Homo sapiens,LIN28A,protein,79727,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03343514,mmu-miR-221-3p,miRNA,MIMAT0000669,Mus musculus,Fus,protein,233908,Mus musculus,CLIP-seq,starBase,None,0.5483
+RAID03346827,hsa-miR-19a-3p,miRNA,MIMAT0000073,Homo sapiens,FMR1,protein,2332,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03347874,hsa-miR-204-5p,miRNA,MIMAT0000265,Homo sapiens,FMR1,protein,2332,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03347922,hsa-miR-181c-5p,miRNA,MIMAT0000258,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03351874,hsa-miR-125a-3p,miRNA,MIMAT0004602,Homo sapiens,LIN28A,protein,79727,Homo sapiens,CLIP,NPInter,22959275,0.5483
+RAID03360208,hsa-miR-708-5p,miRNA,MIMAT0004926,Homo sapiens,LIN28A,protein,79727,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03370325,hsa-miR-5193,miRNA,MIMAT0021124,Homo sapiens,EIF4A3,protein,9775,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03371917,hsa-miR-222-3p,miRNA,MIMAT0000279,Homo sapiens,FMR1,protein,2332,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03372864,hsa-miR-4515,miRNA,MIMAT0019052,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03373447,hsa-miR-27a-3p,miRNA,MIMAT0000084,Homo sapiens,FUS,protein,2521,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03379846,hsa-let-7d-5p,miRNA,MIMAT0000065,Homo sapiens,LIN28B,protein,389421,Homo sapiens,Reporter Assay//IP (immunoprecipitation)//EMSA (electrophoretic mobility shift assay)//Western Blot//RT-PCR//CLIP-seq,RAID//starBase,26787543//20525879//26440890//18951094,0.997
+RAID03381000,mmu-let-7b-5p,miRNA,MIMAT0000522,Mus musculus,Rbm3,protein,19652,Mus musculus,CLIP-seq,starBase,None,0.5483
+RAID03383555,hsa-miR-342-3p,miRNA,MIMAT0000753,Homo sapiens,FXR1,protein,8087,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03383633,hsa-miR-17-5p,miRNA,MIMAT0000070,Homo sapiens,MYC,protein,4609,Homo sapiens,Reporter Assay//Northern Blot//Western Blot,RAID,15944709,0.9526
+RAID03384733,hsa-miR-421,miRNA,MIMAT0003339,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03390655,hsa-miR-18a-5p,miRNA,MIMAT0000072,Homo sapiens,LIN28B,protein,389421,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03393428,hsa-let-7b-5p,miRNA,MIMAT0000063,Homo sapiens,ING1,protein,3621,Homo sapiens,Western Blot//Reporter Assay//RT-PCR,RAID,25613480,0.9526
+RAID03397023,hsa-miR-17-5p,miRNA,MIMAT0000070,Homo sapiens,ELAVL1,protein,1994,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03397124,hsa-miR-3652,miRNA,MIMAT0018072,Homo sapiens,ELAVL1,protein,1994,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03406422,hsa-miR-3176,miRNA,MIMAT0015053,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03411031,hsa-miR-660-5p,miRNA,MIMAT0003338,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03411847,hsa-miR-143-3p,miRNA,MIMAT0000435,Homo sapiens,LIN28B,protein,389421,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03422264,hsa-miR-548l,miRNA,MIMAT0005889,Homo sapiens,LIN28A,protein,79727,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03426491,hsa-miR-501-5p,miRNA,MIMAT0002872,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03432250,hsa-miR-221-3p,miRNA,MIMAT0000278,Homo sapiens,FUS,protein,2521,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03432534,hsa-miR-23a-3p,miRNA,MIMAT0000078,Homo sapiens,EIF4A3,protein,9775,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03437293,hsa-miR-3129-5p,miRNA,MIMAT0014992,Homo sapiens,TNRC6A,protein,27327,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03437455,hsa-miR-193b-3p,miRNA,MIMAT0002819,Homo sapiens,LIN28B,protein,389421,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03442475,hsa-miR-27a-3p,miRNA,MIMAT0000084,Homo sapiens,AGO3,protein,192669,Homo sapiens,Northern Blot//IP (immunoprecipitation),RAID,22844086,0.8808
+RAID03443788,hsa-miR-765,miRNA,MIMAT0003945,Homo sapiens,EIF4A3,protein,9775,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03445016,hsa-miR-543,miRNA,MIMAT0004954,Homo sapiens,FUS,protein,2521,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03445094,hsa-miR-193b-3p,miRNA,MIMAT0002819,Homo sapiens,PTBP1,protein,5725,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03447376,hsa-miR-27a-3p,miRNA,MIMAT0000084,Homo sapiens,ACLY,protein,47,Homo sapiens,RT-PCR,RAID,25265485,0.7311
+RAID03447379,hsa-miR-1182,miRNA,MIMAT0005827,Homo sapiens,IGF2BP1,protein,10642,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03448783,hsa-miR-4741,miRNA,MIMAT0019871,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03449847,hsa-miR-21-5p,miRNA,MIMAT0000076,Homo sapiens,PTEN,protein,5728,Homo sapiens,RT-PCR//Reporter Assay//Western Blot,RAID,20223231,0.9526
+RAID03451118,mmu-miR-98-5p,miRNA,MIMAT0000545,Mus musculus,Fus,protein,233908,Mus musculus,CLIP-seq,starBase,None,0.5483
+RAID03454564,hsa-miR-125b-5p,miRNA,MIMAT0000423,Homo sapiens,GJA1,protein,2697,Homo sapiens,Western Blot//RT-PCR,RAID,26335100,0.8808
+RAID03456546,hsa-miR-455-5p,miRNA,MIMAT0003150,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03457557,hsa-miR-182-5p,miRNA,MIMAT0000259,Homo sapiens,AGO1,protein,26523,Homo sapiens,Northern Blot//IP (immunoprecipitation),RAID,22844086,0.8808
+RAID03457765,hsa-miR-20b-5p,miRNA,MIMAT0001413,Homo sapiens,LIN28A,protein,79727,Homo sapiens,CLIP-seq//CLIP,NPInter//starBase,22959275,0.6606
+RAID03461772,hsa-miR-320a,miRNA,MIMAT0000510,Homo sapiens,PTBP1,protein,5725,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03464479,hsa-miR-106b-5p,miRNA,MIMAT0000680,Homo sapiens,LIN28B,protein,389421,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03478336,mmu-miR-18a-5p,miRNA,MIMAT0000528,Mus musculus,Rbm3,protein,19652,Mus musculus,CLIP-seq,starBase,None,0.5483
+RAID03480113,hsa-miR-17-5p,miRNA,MIMAT0000070,Homo sapiens,FUS,protein,2521,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03481596,hsa-miR-301a-3p,miRNA,MIMAT0000688,Homo sapiens,PTBP1,protein,5725,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03481754,hsa-miR-4784,miRNA,MIMAT0019948,Homo sapiens,EIF4A3,protein,9775,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03483590,hsa-miR-590-5p,miRNA,MIMAT0003258,Homo sapiens,EIF4A3,protein,9775,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03484221,hsa-miR-302a-3p,miRNA,MIMAT0000684,Homo sapiens,LIN28A,protein,79727,Homo sapiens,CLIP,NPInter,22959275,0.5483
+RAID03488417,hsa-miR-1306-3p,miRNA,MIMAT0005950,Homo sapiens,FUS,protein,2521,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03488615,hsa-miR-31-5p,miRNA,MIMAT0000089,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03490395,hsa-miR-26b-5p,miRNA,MIMAT0000083,Homo sapiens,FXR1,protein,8087,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03495646,mmu-let-7b-5p,miRNA,MIMAT0000522,Mus musculus,Fus,protein,233908,Mus musculus,CLIP-seq,starBase,None,0.5483
+RAID03498367,hsa-miR-1278,miRNA,MIMAT0005936,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03499382,hsa-miR-670-5p,miRNA,MIMAT0010357,Homo sapiens,FUS,protein,2521,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03508436,hsa-miR-21-5p,miRNA,MIMAT0000076,Homo sapiens,PTBP1,protein,5725,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03510689,hsa-miR-217,miRNA,MIMAT0000274,Homo sapiens,AGO1,protein,26523,Homo sapiens,Western Blot//IP (immunoprecipitation),RAID,26912082,0.8808
+RAID03511856,hsa-miR-548b-3p,miRNA,MIMAT0003254,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03513272,hsa-miR-107,miRNA,MIMAT0000104,Homo sapiens,LIN28B,protein,389421,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03519982,hsa-miR-30e-5p,miRNA,MIMAT0000692,Homo sapiens,FUS,protein,2521,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03525091,hsa-miR-4672,miRNA,MIMAT0019754,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03526885,hsa-miR-1301-3p,miRNA,MIMAT0005797,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03528826,hsa-miR-1182,miRNA,MIMAT0005827,Homo sapiens,ZC3H7B,protein,23264,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03536472,hsa-miR-23a-3p,miRNA,MIMAT0000078,Homo sapiens,FXR1,protein,8087,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03539123,hsa-miR-183-5p,miRNA,MIMAT0000261,Homo sapiens,LIN28A,protein,79727,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03546175,hsa-miR-1244,miRNA,MIMAT0005896,Homo sapiens,LIN28A,protein,79727,Homo sapiens,CLIP,NPInter,22959275,0.5483
+RAID03550098,hsa-miR-33a-5p,miRNA,MIMAT0000091,Homo sapiens,PTBP1,protein,5725,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03553298,hsa-miR-555,miRNA,MIMAT0003219,Homo sapiens,FMR1,protein,2332,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03557916,hsa-miR-4647,miRNA,MIMAT0019709,Homo sapiens,ELAVL1,protein,1994,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03569087,hsa-miR-3609,miRNA,MIMAT0017986,Homo sapiens,IGF2BP2,protein,10644,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03576583,hsa-miR-21-5p,miRNA,MIMAT0000076,Homo sapiens,ELAVL1,protein,1994,Homo sapiens,ITC (Isothermal titration calorimetry)//EMSA (electrophoretic mobility shift assay)//Filter trap assay//IP (immunoprecipitation)//RT-PCR,RAID,26189797,0.9933
+RAID03579223,hsa-miR-192-5p,miRNA,MIMAT0000222,Homo sapiens,FUS,protein,2521,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03582837,hsa-miR-663a,miRNA,MIMAT0003326,Homo sapiens,PTBP1,protein,5725,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03586299,hsa-miR-503-5p,miRNA,MIMAT0002874,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03597395,hsa-miR-96-5p,miRNA,MIMAT0000095,Homo sapiens,EIF4A3,protein,9775,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03598496,hsa-miR-361-5p,miRNA,MIMAT0000703,Homo sapiens,PTBP1,protein,5725,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03599272,hsa-miR-548e-3p,miRNA,MIMAT0005874,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03606049,hsa-miR-15b-5p,miRNA,MIMAT0000417,Homo sapiens,FXR1,protein,8087,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03607925,hsa-miR-125a-5p,miRNA,MIMAT0000443,Homo sapiens,PTBP1,protein,5725,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03609543,hsa-miR-19a-3p,miRNA,MIMAT0000073,Homo sapiens,IFNA1,protein,3439,Homo sapiens,Nucleic acid transfection//Reporter Assay//IP (immunoprecipitation)//RT-PCR,NPInter,23894411,0.982
+RAID03618814,hsa-miR-494-3p,miRNA,MIMAT0002816,Homo sapiens,FUS,protein,2521,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03622063,hsa-miR-203a-3p,miRNA,MIMAT0000264,Homo sapiens,LIN28A,protein,79727,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03631077,hsa-miR-191-5p,miRNA,MIMAT0000440,Homo sapiens,LIN28B,protein,389421,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03637155,hsa-miR-4461,miRNA,MIMAT0018983,Homo sapiens,IGF2BP1,protein,10642,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03637714,hsa-mir-133a-1,miRNA,MI0000450,Homo sapiens,FUS,protein,2521,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03639281,hsa-miR-34a-5p,miRNA,MIMAT0000255,Homo sapiens,PPP1R10,protein,5514,Homo sapiens,Western Blot//RT-PCR,RAID,26188041,0.8808
+RAID03645345,hsa-miR-197-3p,miRNA,MIMAT0000227,Homo sapiens,FMR1,protein,2332,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03654347,hsa-miR-22-3p,miRNA,MIMAT0000077,Homo sapiens,PTBP1,protein,5725,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03659947,hsa-miR-16-5p,miRNA,MIMAT0000069,Homo sapiens,ELAVL1,protein,1994,Homo sapiens,RT-PCR,RAID,22049153,0.7311
+RAID03680362,hsa-miR-148a-3p,miRNA,MIMAT0000243,Homo sapiens,LIN28B,protein,389421,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03706845,hsa-miR-23b-3p,miRNA,MIMAT0000418,Homo sapiens,LIN28A,protein,79727,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03715700,hsa-miR-23a-3p,miRNA,MIMAT0000078,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03717841,hsa-miR-4453,miRNA,MIMAT0018975,Homo sapiens,U2AF2,protein,11338,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03718113,hsa-miR-302d-3p,miRNA,MIMAT0000718,Homo sapiens,LIN28A,protein,79727,Homo sapiens,CLIP,NPInter,22959275,0.5483
+RAID03721979,hsa-miR-505-3p,miRNA,MIMAT0002876,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03723291,hsa-miR-18a-5p,miRNA,MIMAT0000072,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03723672,hsa-miR-223-3p,miRNA,MIMAT0000280,Homo sapiens,FUS,protein,2521,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03725363,hsa-miR-10a-5p,miRNA,MIMAT0000253,Homo sapiens,EIF4A3,protein,9775,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03733677,mmu-miR-101a-3p,miRNA,MIMAT0000133,Mus musculus,Fus,protein,233908,Mus musculus,CLIP-seq,starBase,None,0.5483
+RAID03734515,hsa-miR-191-5p,miRNA,MIMAT0000440,Homo sapiens,EIF4A3,protein,9775,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03741006,hsa-let-7e-5p,miRNA,MIMAT0000066,Homo sapiens,LIN28B,protein,389421,Homo sapiens,RT-PCR//EMSA (electrophoretic mobility shift assay)//Reporter Assay//IP (immunoprecipitation)//Western Blot,RAID,20525879//26440890//18951094,0.9933
+RAID03741334,hsa-miR-4784,miRNA,MIMAT0019948,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03742725,hsa-miR-3652,miRNA,MIMAT0018072,Homo sapiens,EIF4A3,protein,9775,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03746669,hsa-miR-590-5p,miRNA,MIMAT0003258,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03750707,hsa-miR-22-3p,miRNA,MIMAT0000077,Homo sapiens,LIN28B,protein,389421,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03751340,mmu-miR-140-5p,miRNA,MIMAT0000151,Mus musculus,Fus,protein,233908,Mus musculus,CLIP-seq,starBase,None,0.5483
+RAID03756210,hsa-miR-3609,miRNA,MIMAT0017986,Homo sapiens,U2AF2,protein,11338,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03758432,hsa-miR-137,miRNA,MIMAT0000429,Homo sapiens,HMGA1,protein,3159,Homo sapiens,ChIP (chromatin immunoprecipitation assay),NPInter,23201162,0.5483
+RAID03760498,hsa-miR-98-5p,miRNA,MIMAT0000096,Homo sapiens,LIN28A,protein,79727,Homo sapiens,Western Blot//EMSA (electrophoretic mobility shift assay)//RT-PCR//CLIP,NPInter//RAID,22959275//26440890,0.9786
+RAID03761730,hsa-miR-663a,miRNA,MIMAT0003326,Homo sapiens,NCBP3,protein,55421,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03763809,hsa-miR-452-5p,miRNA,MIMAT0001635,Homo sapiens,FUS,protein,2521,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03765353,hsa-miR-1255a,miRNA,MIMAT0005906,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03770392,hsa-miR-132-3p,miRNA,MIMAT0000426,Homo sapiens,FUS,protein,2521,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03771494,hsa-miR-92a-1-5p,miRNA,MIMAT0004507,Homo sapiens,LIN28A,protein,79727,Homo sapiens,CLIP,NPInter,22959275,0.5483
+RAID03772791,hsa-miR-17-5p,miRNA,MIMAT0000070,Homo sapiens,EIF4A3,protein,9775,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03775148,hsa-miR-760,miRNA,MIMAT0004957,Homo sapiens,LIN28B,protein,389421,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03778635,hsa-miR-132-3p,miRNA,MIMAT0000426,Homo sapiens,LIN28B,protein,389421,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03782943,hsa-miR-183-5p,miRNA,MIMAT0000261,Homo sapiens,LIN28B,protein,389421,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03790316,hsa-miR-3619-5p,miRNA,MIMAT0017999,Homo sapiens,QKI,protein,9444,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03791004,rno-miR-103-3p,miRNA,MIMAT0000824,Rattus norvegicus,Fadd,protein,266610,Rattus norvegicus,Reporter Assay//RT-PCR//Western Blot,RAID,26038570,0.9526
+RAID03792205,hsa-miR-632,miRNA,MIMAT0003302,Homo sapiens,UPF1,protein,5976,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03792695,hsa-miR-32-5p,miRNA,MIMAT0000090,Homo sapiens,LIN28B,protein,389421,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03796805,hsa-miR-222-3p,miRNA,MIMAT0000279,Homo sapiens,U2AF2,protein,11338,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03798389,hsa-miR-30b-5p,miRNA,MIMAT0000420,Homo sapiens,LIN28A,protein,79727,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03798944,hsa-miR-26b-5p,miRNA,MIMAT0000083,Homo sapiens,PTBP1,protein,5725,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03803921,hsa-miR-107,miRNA,MIMAT0000104,Homo sapiens,LIN28A,protein,79727,Homo sapiens,Western Blot//RT-PCR,RAID,26636340,0.8808
+RAID03812481,hsa-miR-3909,miRNA,MIMAT0018183,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03814325,hsa-miR-1182,miRNA,MIMAT0005827,Homo sapiens,FMR1,protein,2332,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03816844,hsa-miR-4775,miRNA,MIMAT0019931,Homo sapiens,ELAVL1,protein,1994,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03827944,hsa-miR-137,miRNA,MIMAT0000429,Homo sapiens,PTBP1,protein,5725,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03831718,hsa-miR-658,miRNA,MIMAT0003336,Homo sapiens,EIF4A3,protein,9775,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03832244,hsa-miR-206,miRNA,MIMAT0000462,Homo sapiens,EIF4A3,protein,9775,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03842219,hsa-miR-181b-5p,miRNA,MIMAT0000257,Homo sapiens,LIN28A,protein,79727,Homo sapiens,CLIP,NPInter,22959275,0.5483
+RAID03846701,hsa-miR-32-5p,miRNA,MIMAT0000090,Homo sapiens,RTCB,protein,51493,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03850668,hsa-miR-19a-3p,miRNA,MIMAT0000073,Homo sapiens,RHOB,protein,388,Homo sapiens,RT-PCR//Reporter Assay//Western Blot,RAID,26041879,0.9526
+RAID03854457,hsa-miR-140-5p,miRNA,MIMAT0000431,Homo sapiens,PTBP1,protein,5725,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03857646,hsa-miR-3173-3p,miRNA,MIMAT0015048,Homo sapiens,EIF4A3,protein,9775,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03864721,hsa-miR-96-5p,miRNA,MIMAT0000095,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03866204,hsa-miR-33a-5p,miRNA,MIMAT0000091,Homo sapiens,LIN28B,protein,389421,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03866337,hsa-miR-1182,miRNA,MIMAT0005827,Homo sapiens,ELAVL1,protein,1994,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03874355,hsa-miR-93-5p,miRNA,MIMAT0000093,Homo sapiens,ALKBH5,protein,54890,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03878716,hsa-miR-3609,miRNA,MIMAT0017986,Homo sapiens,FXR2,protein,9513,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03879854,hsa-miR-148b-3p,miRNA,MIMAT0000759,Homo sapiens,CAPRIN1,protein,4076,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03882972,hsa-miR-621,miRNA,MIMAT0003290,Homo sapiens,UPF1,protein,5976,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03893570,hsa-miR-301a-3p,miRNA,MIMAT0000688,Homo sapiens,LIN28B,protein,389421,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03894868,hsa-miR-4453,miRNA,MIMAT0018975,Homo sapiens,FUS,protein,2521,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03895715,hsa-miR-30b-5p,miRNA,MIMAT0000420,Homo sapiens,LIN28B,protein,389421,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03900205,hsa-miR-3685,miRNA,MIMAT0018113,Homo sapiens,EIF4A3,protein,9775,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03906441,hsa-miR-17-5p,miRNA,MIMAT0000070,Homo sapiens,PTBP1,protein,5725,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03911678,hsa-miR-501-5p,miRNA,MIMAT0002872,Homo sapiens,LIN28A,protein,79727,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03911863,hsa-miR-301b-3p,miRNA,MIMAT0004958,Homo sapiens,FMR1,protein,2332,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03913145,hsa-let-7i-5p,miRNA,MIMAT0000415,Homo sapiens,IGF2BP1,protein,10642,Homo sapiens,RIP (RNA Immunoprecipitation)//PAR-CLIP,RAID,23069990,0.8785
+RAID03913475,hsa-miR-21-5p,miRNA,MIMAT0000076,Homo sapiens,EIF4A3,protein,9775,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03923864,hsa-miR-4647,miRNA,MIMAT0019709,Homo sapiens,EIF4A3,protein,9775,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03926771,hsa-miR-3618,miRNA,MIMAT0017998,Homo sapiens,U2AF2,protein,11338,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03928485,hsa-miR-28-5p,miRNA,MIMAT0000085,Homo sapiens,FMR1,protein,2332,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03928790,hsa-miR-26b-5p,miRNA,MIMAT0000083,Homo sapiens,EIF4A3,protein,9775,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03928904,hsa-miR-200c-3p,miRNA,MIMAT0000617,Homo sapiens,CAPRIN1,protein,4076,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03933688,hsa-miR-210-3p,miRNA,MIMAT0000267,Homo sapiens,LIN28B,protein,389421,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03941985,hsa-miR-29c-3p,miRNA,MIMAT0000681,Homo sapiens,LIN28B,protein,389421,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03943106,hsa-miR-149-5p,miRNA,MIMAT0000450,Homo sapiens,PTBP1,protein,5725,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03950938,hsa-miR-362-5p,miRNA,MIMAT0000705,Homo sapiens,FUS,protein,2521,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03955320,hsa-miR-30a-5p,miRNA,MIMAT0000087,Homo sapiens,U2AF2,protein,11338,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03956352,hsa-miR-492,miRNA,MIMAT0002812,Homo sapiens,NOS3,protein,4846,Homo sapiens,RT-PCR,NPInter,23802567,0.7311
+RAID03968918,hsa-miR-5699-3p,miRNA,MIMAT0022492,Homo sapiens,IGF2BP1,protein,10642,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03971742,hsa-miR-191-5p,miRNA,MIMAT0000440,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03972506,mmu-miR-124-3p,miRNA,MIMAT0000134,Mus musculus,Efnb1,protein,13641,Mus musculus,Western Blot//Reporter Assay//RT-PCR,RAID,20308325,0.9526
+RAID03974968,hsa-miR-206,miRNA,MIMAT0000462,Homo sapiens,LIN28B,protein,389421,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03975181,hsa-miR-3652,miRNA,MIMAT0018072,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03982938,hsa-miR-133a-3p,miRNA,MIMAT0000427,Homo sapiens,KCNH2,protein,3757,Homo sapiens,Reporter Assay//RT-PCR//Western Blot,RAID,17344217,0.9526
+RAID03986006,hsa-miR-1307-3p,miRNA,MIMAT0005951,Homo sapiens,PTBP1,protein,5725,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03989234,hsa-miR-32-5p,miRNA,MIMAT0000090,Homo sapiens,FUS,protein,2521,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03990245,hsa-miR-331-3p,miRNA,MIMAT0000760,Homo sapiens,U2AF2,protein,11338,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03993276,hsa-miR-185-5p,miRNA,MIMAT0000455,Homo sapiens,VEGFA,protein,7422,Homo sapiens,Western Blot,NPInter,24038736,0.7311
+RAID03997997,hsa-miR-10a-5p,miRNA,MIMAT0000253,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID03999304,hsa-miR-130a-3p,miRNA,MIMAT0000425,Homo sapiens,LIN28B,protein,389421,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID04000494,hsa-miR-148a-3p,miRNA,MIMAT0000243,Homo sapiens,FMR1,protein,2332,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID04014196,hsa-miR-3129-5p,miRNA,MIMAT0014992,Homo sapiens,EIF4A3,protein,9775,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID04020391,hsa-miR-3652,miRNA,MIMAT0018072,Homo sapiens,SRSF1,protein,6426,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID04022030,hsa-miR-17-5p,miRNA,MIMAT0000070,Homo sapiens,FXR1,protein,8087,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID04023134,hsa-miR-598-3p,miRNA,MIMAT0003266,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID04023706,hsa-let-7i-5p,miRNA,MIMAT0000415,Homo sapiens,PTBP1,protein,5725,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID04025296,hsa-miR-370-3p,miRNA,MIMAT0000722,Homo sapiens,LIN28A,protein,79727,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID04025372,hsa-miR-17-5p,miRNA,MIMAT0000070,Homo sapiens,DGCR8,protein,54487,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID04028101,hsa-miR-30a-5p,miRNA,MIMAT0000087,Homo sapiens,FXR1,protein,8087,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID04028467,hsa-miR-639,miRNA,MIMAT0003309,Homo sapiens,UPF1,protein,5976,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID04028879,hsa-let-7b-5p,miRNA,MIMAT0000063,Homo sapiens,CAPRIN1,protein,4076,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID04033488,hsa-miR-3609,miRNA,MIMAT0017986,Homo sapiens,IGF2BP1,protein,10642,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID04040124,hsa-miR-1181,miRNA,MIMAT0005826,Homo sapiens,UPF1,protein,5976,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID04046938,hsa-miR-4461,miRNA,MIMAT0018983,Homo sapiens,UPF1,protein,5976,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID04049785,mmu-miR-122-5p,miRNA,MIMAT0000246,Mus musculus,Srebf1,protein,20787,Mus musculus,Western Blot//RT-PCR,NPInter,24165878,0.8808
+RAID04050206,hsa-miR-497-5p,miRNA,MIMAT0002820,Homo sapiens,FXR1,protein,8087,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID04053103,hsa-let-7f-5p,miRNA,MIMAT0000067,Homo sapiens,LIN28B,protein,389421,Homo sapiens,RT-PCR//EMSA (electrophoretic mobility shift assay)//Reporter Assay//Western Blot,RAID,20525879//26440890,0.982
+RAID04062283,hsa-miR-221-3p,miRNA,MIMAT0000278,Homo sapiens,DND1,protein,373863,Homo sapiens,Western Blot//Reporter Assay,RAID,18155131,0.8808
+RAID04062626,hsa-miR-22-3p,miRNA,MIMAT0000077,Homo sapiens,EIF4A3,protein,9775,Homo sapiens,CLIP-seq,starBase,None,0.5483
+RAID04062994,hsa-miR-20a-5p,miRNA,MIMAT0000075,Homo sapiens,TIA1,protein,7072,Homo sapiens,CLIP-seq,starBase,None,0.5483
